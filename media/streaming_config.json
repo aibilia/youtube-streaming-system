@@ -1,0 +1,143 @@
+{
+  "streaming_system": {
+    "version": "1.0",
+    "created": "2025-07-17T13:54:27.939364",
+    "base_path": "/Users/andreafeo/Desktop/Youtube automation/lofi-automation-youtube/media_streaming",
+    "total_channels": 5,
+    "total_programs": 15
+  },
+  "channels": {
+    "aqua": {
+      "name": "Aqua_Lofi_Chill",
+      "emoji": "\ud83d\udca6",
+      "description": "Water-themed lofi beats for deep meditation and flow states",
+      "programs": {
+        "A": {
+          "name": "Abyss",
+          "code_name": "abyss",
+          "description": "Deep aquatic meditative soundscapes",
+          "playlist_path": "aqua_lofi/playlists/20250717_abyss"
+        },
+        "B": {
+          "name": "Blue_Bossa",
+          "code_name": "blue-bossa",
+          "description": "Jazzy oceanic rhythms with smooth currents",
+          "playlist_path": "aqua_lofi/playlists/20250717_blue_bossa"
+        },
+        "C": {
+          "name": "Meditative_Tide",
+          "code_name": "meditative-tide",
+          "description": "Relaxed underwater mood for contemplation",
+          "playlist_path": "aqua_lofi/playlists/20250717_meditative_tide"
+        }
+      }
+    },
+    "fuego": {
+      "name": "Fuego_Lofi_Heat",
+      "emoji": "\ud83d\udd25",
+      "description": "Fire-themed lofi beats with warm energy and passion",
+      "programs": {
+        "A": {
+          "name": "Ember_Glow",
+          "code_name": "ember-glow",
+          "description": "Warm crackling soundscapes with gentle fire",
+          "playlist_path": "fuego_lofi/playlists/20250717_ember_glow"
+        },
+        "B": {
+          "name": "Solar_Flare",
+          "code_name": "solar-flare",
+          "description": "Energetic solar-powered rhythms",
+          "playlist_path": "fuego_lofi/playlists/20250717_solar_flare"
+        },
+        "C": {
+          "name": "Phoenix_Rise",
+          "code_name": "phoenix-rise",
+          "description": "Transformative fire beats for renewal",
+          "playlist_path": "fuego_lofi/playlists/20250717_phoenix_rise"
+        }
+      }
+    },
+    "aria": {
+      "name": "Aria_Lofi_Flux",
+      "emoji": "\ud83c\udf2c\ufe0f",
+      "description": "Wind-themed lofi beats with airy lightness and movement",
+      "programs": {
+        "A": {
+          "name": "Zephyr_Drift",
+          "code_name": "zephyr-drift",
+          "description": "Gentle wind currents and flowing melodies",
+          "playlist_path": "aria_lofi/playlists/20250717_zephyr_drift"
+        },
+        "B": {
+          "name": "Storm_Breeze",
+          "code_name": "storm-breeze",
+          "description": "Dynamic air movements with atmospheric pressure",
+          "playlist_path": "aria_lofi/playlists/20250717_storm_breeze"
+        },
+        "C": {
+          "name": "Cloud_Walker",
+          "code_name": "cloud-walker",
+          "description": "Elevated soundscapes floating above the earth",
+          "playlist_path": "aria_lofi/playlists/20250717_cloud_walker"
+        }
+      }
+    },
+    "tierra": {
+      "name": "Tierra_Lofi_Grounding",
+      "emoji": "\ud83c\udf31",
+      "description": "Earth-themed lofi beats for grounding and stability",
+      "programs": {
+        "A": {
+          "name": "Root_Deep",
+          "code_name": "root-deep",
+          "description": "Deep earth connections and foundational rhythms",
+          "playlist_path": "tierra_lofi/playlists/20250717_root_deep"
+        },
+        "B": {
+          "name": "Forest_Floor",
+          "code_name": "forest-floor",
+          "description": "Organic textures and natural growth patterns",
+          "playlist_path": "tierra_lofi/playlists/20250717_forest_floor"
+        },
+        "C": {
+          "name": "Mountain_Stone",
+          "code_name": "mountain-stone",
+          "description": "Solid, enduring beats with mineral clarity",
+          "playlist_path": "tierra_lofi/playlists/20250717_mountain_stone"
+        }
+      }
+    },
+    "ether": {
+      "name": "Ether_Lofi_Mind",
+      "emoji": "\u2728",
+      "description": "Meditative ethereal lofi for consciousness expansion",
+      "programs": {
+        "A": {
+          "name": "Void_Space",
+          "code_name": "void-space",
+          "description": "Spacious soundscapes beyond physical reality",
+          "playlist_path": "ether_lofi/playlists/20250717_void_space"
+        },
+        "B": {
+          "name": "Astral_Shift",
+          "code_name": "astral-shift",
+          "description": "Consciousness-altering frequencies and dimensions",
+          "playlist_path": "ether_lofi/playlists/20250717_astral_shift"
+        },
+        "C": {
+          "name": "Divine_Flow",
+          "code_name": "divine-flow",
+          "description": "Transcendent beats connecting to universal energy",
+          "playlist_path": "ether_lofi/playlists/20250717_divine_flow"
+        }
+      }
+    }
+  },
+  "filesystem_structure": {},
+  "database_mapping": {},
+  "integration_report": {
+    "directories_created": 41,
+    "files_processed": 1,
+    "errors": 0
+  }
+}

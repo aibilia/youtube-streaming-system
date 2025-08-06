@@ -1,0 +1,16 @@
+🌊 DOWNLOAD E PULIZIA AUTOMATICA - DIGITAL OCEAN DATABASE
+============================================================
+🚀 AVVIO AUTOMATICO DOWNLOAD E PULIZIA MEDIA DIGITAL OCEAN
+============================================================
+⏰ Timestamp: 2025-07-17T11:37:38.349272
+📁 Directory backup: ./media_backup_digitalocean
+🔄 Modalità automatica - nessunaTraceback (most recent call last):
+  File "/Users/andreafeo/Desktop/Youtube automation/lofi-automation-youtube/scripts/download_and_clean_media.py", line 404, in <module>
+  File "/Users/andreafeo/Desktop/Youtube automation/lofi-automation-youtube/scripts/download_and_clean_media.py", line 392, in main
+OSError: [Errno 5] Input/output error
+Recupero tutti gli asset media dal database...
+📁 Trovati 0 asset con URL da scaricare
+❌ Nessun asset trovato!
+
+❌ OPERAZIONE AUTOMATICA FALLITA!
+🔍 Controlla i log per maggiori dettagli

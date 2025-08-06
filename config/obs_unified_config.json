@@ -1,0 +1,30 @@
+{
+  "streaming_setup": {
+    "mode": "unified",
+    "base_path": "/home/lofi/media/aqua",
+    "audio_playlist": "/home/lofi/media/aqua/playlists/unified_playlist.txt",
+    "video_background": "/home/lofi/media/aqua/video/background.mp4",
+    "total_audio_files": 56,
+    "auto_restart_playlist": true,
+    "auto_restart_video": true,
+    "last_updated": "2025-07-18T12:20:06.435156"
+  },
+  "playback": {
+    "audio_mode": "sequential_loop",
+    "video_mode": "infinite_loop",
+    "transition_type": "immediate",
+    "crossfade_seconds": 0
+  },
+  "obs_sources": {
+    "audio_source_name": "Unified Audio Playlist",
+    "video_source_name": "Background Video Loop",
+    "scene_name": "Aqua Lofi Unified"
+  },
+  "metadata": {
+    "generated_at": "2025-07-18T12:20:06.435161",
+    "total_files": 57,
+    "audio_files": 56,
+    "video_files": 1,
+    "source": "digitalocean_database_unified"
+  }
+}

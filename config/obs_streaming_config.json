@@ -1,0 +1,35 @@
+{
+  "streaming_setup": {
+    "base_path": "/home/lofi/media/aqua",
+    "rotation_programs": [
+      "abyss",
+      "meditative_tide"
+    ],
+    "rotation_interval_minutes": 60,
+    "video_background": "/home/lofi/media/aqua/video",
+    "current_program": "abyss",
+    "last_rotation": "2025-07-18T12:05:42.337903"
+  },
+  "playlists": {
+    "abyss": {
+      "path": "/home/lofi/media/aqua/playlists/abyss_playlist.txt",
+      "display_name": "Abyss Deep",
+      "description": "Musica lofi profonda e rilassante"
+    },
+    "meditative_tide": {
+      "path": "/home/lofi/media/aqua/playlists/meditative_playlist.txt",
+      "display_name": "Meditative Tide",
+      "description": "Musica meditativa e onde"
+    },
+    "video": {
+      "path": "/home/lofi/media/aqua/playlists/video_playlist.txt",
+      "display_name": "Video Backgrounds",
+      "description": "Sfondi video per streaming"
+    }
+  },
+  "metadata": {
+    "generated_at": "2025-07-18T12:05:42.337911",
+    "total_playlists": 3,
+    "sync_source": "digitalocean_database"
+  }
+}

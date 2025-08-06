@@ -1,0 +1,1173 @@
+🌊 DOWNLOAD E PULIZIA AUTOMATICA - POSTGRESQL DIGITAL OCEAN (FIXED)
+============================================================
+🚀 DOWNLOAD E PULIZIA DATABASE POSTGRESQL DIGITAL OCEAN (FIXED)
+============================================================
+⏰ Timestamp: 2025-07-17T11:43:43.096798
+📁 Directory backup: ./media_backup_digitalocean
+🐘 Database: PostgreSQL Digital Ocean
+🔄 Modalità automatica - nessuna conferma richiesta
+============================================================
+🔌 Connessione diretta al database PostgreSQL Digital Ocean...
+   Host: lofi-production-db-do-user-23489218-0.m.db.ondigitalocean.com
+   Database: defaultdb
+   User: doadmin
+✅ Connesso al database PostgreSQL Digital Ocean!
+🐘 Versione: PostgreSQL 17.5 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 14.2.1 20240912 (Red Hat 14.2.1-3), 64-bit
+📊 Recupero tutti gli asset media dal database PostgreSQL...
+📁 Trovati 280 asset con URL da scaricare
+   audio: 48 file
+   image: 232 file
+
+📥 Avvio download di 280 asset...
+📁 Directory: ./media_backup_digitalocean
+⬇️  Downloading: Test Audio Track - Database Fix (audio)
+⬇️  Downloading: Test Lofi Track (audio)
+⬇️  Downloading: Serenity in the Garden (audio)
+⬇️  Downloading: Serenity in the Garden (audio)
+⬇️  Downloading: Udio Audio 20250628_180942 (audio)
+✅ Downloaded: 24138a60-dc1b-4c33-aef4-a04425c148ac_Test Audio Track - Database Fix.mp3 (3148522 bytes)
+⬇️  Downloading: Udio Audio 20250628_180942 (audio)
+📊 Progress: 1/280 (0.4%)
+✅ Downloaded: 3cac67cc-152d-4d02-828e-a05ede0096df_Serenity in the Garden.mp3 (3148522 bytes)
+⬇️  Downloading: Udio Audio 20250628_181031 (audio)
+📊 Progress: 2/280 (0.7%)
+✅ Downloaded: f692c181-016b-4056-985f-eb240913a87c_Serenity in the Garden.mp3 (3148522 bytes)
+⬇️  Downloading: Udio Audio 20250628_181031 (audio)
+📊 Progress: 3/280 (1.1%)
+✅ Downloaded: 64caca05-3e09-4175-a73e-0fccbc8c7fe4_Udio Audio 20250628_180942.mp3 (3148522 bytes)
+⬇️  Downloading: Whispers of Summer (Track 1) (audio)
+📊 Progress: 4/280 (1.4%)
+✅ Downloaded: b77fc3ea-4c0a-4c3e-9d1c-42182388b1a5_Whispers of Summer Track 1.mp3 (3148522 bytes)
+⬇️  Downloading: Whispers of Summer (Track 2) (audio)
+📊 Progress: 5/280 (1.8%)
+✅ Downloaded: 992c010c-d7c8-4054-a5e6-037e9419c979_Udio Audio 20250628_181031.mp3 (3148522 bytes)
+⬇️  Downloading: Whispers of Summer (Track 1) (audio)
+📊 Progress: 6/280 (2.1%)
+✅ Downloaded: 869ce9df-7fe9-4caf-a9e4-33af2b9b3cc9_Udio Audio 20250628_181031.mp3 (3148522 bytes)
+⬇️  Downloading: Whispers of Summer (Track 2) (audio)
+📊 Progress: 7/280 (2.5%)
+✅ Downloaded: d1464933-3c7b-4e37-82c7-d74e8452582e_Udio Audio 20250628_180942.mp3 (3148522 bytes)
+⬇️  Downloading: Whispers of Summer (Track 1) (audio)
+📊 Progress: 8/280 (2.9%)
+✅ Downloaded: e7ea25cd-7ced-4b7a-8abb-aa1842158b3a_Whispers of Summer Track 1.mp3 (3148522 bytes)
+⬇️  Downloading: Whispers of Summer (Track 2) (audio)
+📊 Progress: 9/280 (3.2%)
+✅ Downloaded: c6810ea4-7b73-4ae6-afa7-9cafa8bcabd0_Whispers of Summer Track 2.mp3 (3148522 bytes)
+⬇️  Downloading: Whispers of Summer (Track 1) (audio)
+📊 Progress: 10/280 (3.6%)
+✅ Downloaded: e9d91104-5a37-4488-957a-ff4cc7ca566b_Whispers of Summer Track 2.mp3 (3148522 bytes)
+⬇️  Downloading: Whispers of Summer (Track 2) (audio)
+📊 Progress: 11/280 (3.9%)
+✅ Downloaded: a6ab37f9-69ce-4d43-8fd0-2e98a97a9a9f_Whispers of Summer Track 1.mp3 (3148522 bytes)
+⬇️  Downloading: Whispers of the Shore (Track 1) (audio)
+📊 Progress: 12/280 (4.3%)
+✅ Downloaded: 4ed557c2-097f-4260-8a78-4e09a98cc0ad_Test Lofi Track.mp3 (1256 bytes)
+⬇️  Downloading: Whispers of the Shore (Track 2) (audio)
+📊 Progress: 13/280 (4.6%)
+✅ Downloaded: 14de4052-0684-4fcc-9f22-33728a9f0a99_Whispers of Summer Track 2.mp3 (3148522 bytes)
+⬇️  Downloading: Whispers of the Shore (Track 1) (audio)
+📊 Progress: 14/280 (5.0%)
+✅ Downloaded: 7a1f5ffa-c189-442b-88b4-0b62943ca348_Whispers of the Shore Track 1.mp3 (3148522 bytes)
+⬇️  Downloading: Whispers of the Shore (Track 2) (audio)
+📊 Progress: 15/280 (5.4%)
+✅ Downloaded: c60a6fda-3195-47c3-8721-769951199466_Whispers of the Shore Track 2.mp3 (3148522 bytes)
+⬇️  Downloading: Whispers of Nostalgia (Track 1) (audio)
+📊 Progress: 16/280 (5.7%)
+✅ Downloaded: 39f929ae-fda1-4017-bc1a-5a9cd8007057_Whispers of Summer Track 1.mp3 (3148522 bytes)
+⬇️  Downloading: Whispers Among Pages (Track 2) (audio)
+📊 Progress: 17/280 (6.1%)
+✅ Downloaded: e69c64af-daef-48da-8adc-dee10ff1f43d_Whispers of the Shore Track 1.mp3 (3148522 bytes)
+⬇️  Downloading: Echoing Time (Track 1) (audio)
+📊 Progress: 18/280 (6.4%)
+✅ Downloaded: 66a9fb2c-42a1-4b01-a7c2-75c9e611b1c2_Whispers of Summer Track 2.mp3 (3148522 bytes)
+⬇️  Downloading: Time's Gentle Echo (Track 2) (audio)
+📊 Progress: 19/280 (6.8%)
+✅ Downloaded: 66966339-a59b-4077-b4c3-47b8732d06dd_Whispers of the Shore Track 2.mp3 (3148522 bytes)
+⬇️  Downloading: Midnight Melodies (Track 1) (audio)
+📊 Progress: 20/280 (7.1%)
+✅ Downloaded: c4f539ca-2346-4e0d-ac67-2eb041353ca4_Whispers of Nostalgia Track 1.mp3 (3148522 bytes)
+⬇️  Downloading: Midnight Melodies (Track 2) (audio)
+📊 Progress: 21/280 (7.5%)
+✅ Downloaded: be531ee6-bbf5-483d-a698-db00f1aabf82_Echoing Time Track 1.mp3 (3148522 bytes)
+⬇️  Downloading: Soulful Reverie (Track 1) (audio)
+📊 Progress: 22/280 (7.9%)
+✅ Downloaded: 9d88fa75-43bf-442d-a67d-88f5b2137821_Whispers Among Pages Track 2.mp3 (3148522 bytes)
+⬇️  Downloading: Soulful Whispers (Track 2) (audio)
+📊 Progress: 23/280 (8.2%)
+✅ Downloaded: 64ea5f28-8b3f-4ea4-9d15-9d5e4edeb756_Midnight Melodies Track 2.mp3 (3148522 bytes)
+⬇️  Downloading: Whispers Among the Pages (Track 1) (audio)
+📊 Progress: 24/280 (8.6%)
+✅ Downloaded: e462df6e-a8e9-4530-8468-71df8eadb0db_Soulful Reverie Track 1.mp3 (3148522 bytes)
+⬇️  Downloading: Whispers in the Stacks (Track 2) (audio)
+📊 Progress: 25/280 (8.9%)
+✅ Downloaded: 7a0427b2-2bfa-4a0f-aaa1-5711df201dbd_Times Gentle Echo Track 2.mp3 (3148522 bytes)
+⬇️  Downloading: Whispers of the Past (Track 1) (audio)
+📊 Progress: 26/280 (9.3%)
+✅ Downloaded: 163a2c5f-8b4a-4896-b751-e7b092acd225_Midnight Melodies Track 1.mp3 (3148522 bytes)
+⬇️  Downloading: Whispers of the Past (Track 2) (audio)
+📊 Progress: 27/280 (9.6%)
+✅ Downloaded: d88da656-422d-4225-8e16-3cb3797b5519_Whispers Among the Pages Track 1.mp3 (3148522 bytes)
+⬇️  Downloading: Gentle Sway (Track 1) (audio)
+📊 Progress: 28/280 (10.0%)
+✅ Downloaded: 3fb097ae-0125-4460-a86f-6b350f3aee1b_Whispers in the Stacks Track 2.mp3 (3148522 bytes)
+⬇️  Downloading: Gentle Sway (Track 2) (audio)
+📊 Progress: 29/280 (10.4%)
+✅ Downloaded: 89d92429-4fd8-40f7-a703-d9fe102e31e6_Whispers of the Past Track 1.mp3 (3148522 bytes)
+⬇️  Downloading: Raindrop Reverie (Track 1) (audio)
+📊 Progress: 30/280 (10.7%)
+✅ Downloaded: eeec7b44-ce70-42fb-9c2d-8dbbaa42f85f_Soulful Whispers Track 2.mp3 (3148522 bytes)
+⬇️  Downloading: Raindrop Reverie (Track 2) (audio)
+📊 Progress: 31/280 (11.1%)
+✅ Downloaded: 77d10ef0-f650-4ed1-a8f2-96de24ddd870_Whispers of the Past Track 2.mp3 (3148522 bytes)
+⬇️  Downloading: Under the Streetlamp Glow (Track 1) (audio)
+📊 Progress: 32/280 (11.4%)
+✅ Downloaded: 8c366b1c-20d3-4c97-a183-ad525f34aaa2_Gentle Sway Track 1.mp3 (3148522 bytes)
+⬇️  Downloading: Cobbled Whispers (Track 2) (audio)
+📊 Progress: 33/280 (11.8%)
+✅ Downloaded: 10842fc6-6efc-4fbd-bff2-22de9282e39a_Cobbled Whispers Track 2.mp3 (3148522 bytes)
+⬇️  Downloading: Flicker of Solitude (Track 1) (audio)
+📊 Progress: 34/280 (12.1%)
+✅ Downloaded: 441cb102-85a5-45cd-ba9a-3b8c9f441dce_Raindrop Reverie Track 2.mp3 (3148522 bytes)
+⬇️  Downloading: Flicker of Light (Track 2) (audio)
+📊 Progress: 35/280 (12.5%)
+✅ Downloaded: 55c1031e-1196-48ae-ad15-1749a2c0ea1a_Under the Streetlamp Glow Track 1.mp3 (3148522 bytes)
+⬇️  Downloading: River Reflections (Track 1) (audio)
+📊 Progress: 36/280 (12.9%)
+✅ Downloaded: d309d38b-2ae2-4afc-b40e-bd0210b8ef17_Raindrop Reverie Track 1.mp3 (3148522 bytes)
+⬇️  Downloading: River Reverie (Track 2) (audio)
+✅ Downloaded: 4a380d69-f13b-4bac-994a-88ebb4acd79b_Gentle Sway Track 2.mp3 (3148522 bytes)
+⬇️  Downloading: Tram Ride by the River (Track 1) (audio)
+📊 Progress: 38/280 (13.6%)
+✅ Downloaded: 9266b323-2e71-4a7e-bcb4-531b68aeb553_Flicker of Solitude Track 1.mp3 (3148522 bytes)
+⬇️  Downloading: Riverside Rhythm (Track 2) (audio)
+📊 Progress: 39/280 (13.9%)
+✅ Downloaded: f3e6ffce-f14d-4d33-a0ae-7029f7174d08_River Reflections Track 1.mp3 (3148522 bytes)
+⬇️  Downloading: Whispers in the Rain (Track 1) (audio)
+📊 Progress: 40/280 (14.3%)
+✅ Downloaded: c51a7868-7b31-41d3-bd4e-8c753ba74799_Tram Ride by the River Track 1.mp3 (3148522 bytes)
+⬇️  Downloading: Whispers of the Rain (Track 2) (audio)
+📊 Progress: 41/280 (14.6%)
+✅ Downloaded: 2a23281a-d190-4b84-b645-57be6f4df517_Flicker of Light Track 2.mp3 (3148522 bytes)
+⬇️  Downloading: Whispers of Rain (Track 1) (audio)
+📊 Progress: 42/280 (15.0%)
+✅ Downloaded: fe3cf4c6-451b-47a5-97ac-e2ccebbd40d9_River Reverie Track 2.mp3 (3148522 bytes)
+⬇️  Downloading: Whispers of Rain (Track 2) (audio)
+📊 Progress: 43/280 (15.4%)
+✅ Downloaded: 7e0cfa03-b82c-4d10-8b15-09f2f0e0bd2c_Whispers in the Rain Track 1.mp3 (3148522 bytes)
+⬇️  Downloading: Test Lofi Image (image)
+📊 Progress: 44/280 (15.7%)
+✅ Downloaded: 4db5ef83-e15d-473f-9c54-022b3c5ab5c0_Whispers of Rain Track 2.mp3 (3148522 bytes)
+⬇️  Downloading: Test Asset With PostgreSQL (image)
+📊 Progress: 45/280 (16.1%)
+✅ Downloaded: 247ac774-8a2f-496a-bee2-0e7ae140e4d4_Whispers of the Rain Track 2.mp3 (3148522 bytes)
+⬇️  Downloading: Midjourney Image 1 - Soft sunlight filters through ... (image)
+📊 Progress: 46/280 (16.4%)
+✅ Downloaded: a59ab2bc-7501-43d3-be8b-09237e1173c4_Riverside Rhythm Track 2.mp3 (3148522 bytes)
+⬇️  Downloading: Midjourney Image 2 - Soft sunlight filters through ... (image)
+📊 Progress: 47/280 (16.8%)
+✅ Downloaded: 4c079ee5-231a-4e6d-b6c4-b45490251c9a_Test Asset With PostgreSQL.jpg (1256 bytes)
+⬇️  Downloading: Midjourney Image 4 - Soft sunlight filters through ... (image)
+📊 Progress: 48/280 (17.1%)
+✅ Downloaded: 7308232b-58ae-48b2-81f2-87ab27f9a3b2_Midjourney Image 4 - Soft sunlight filters through.png (7033 bytes)
+⬇️  Downloading: Midjourney Image 3 - Soft sunlight filters through ... (image)
+📊 Progress: 49/280 (17.5%)
+✅ Downloaded: fb9c346e-091f-4a09-a597-161d0e19a13c_Midjourney Image 1 - Soft sunlight filters through.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250628_164908 (image)
+✅ Downloaded: 50432edd-5fa1-42f9-9656-7c5db2a3e94c_Midjourney Image 2 - Soft sunlight filters through.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250628_181204 (image)
+📊 Progress: 50/280 (17.9%)
+📊 Progress: 51/280 (18.2%)
+✅ Downloaded: 2560ed39-fc0e-4da2-9990-913ecc7a5b29_Midjourney Image 3 - Soft sunlight filters through.png (7033 bytes)
+⬇️  Downloading: Midjourney Image 20250628_183257 (image)
+📊 Progress: 52/280 (18.6%)
+✅ Downloaded: 90dd04b3-8136-46e9-9745-63a0dae4a68f_Midjourney Image 20250628_164908.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250628_183426 (image)
+📊 Progress: 53/280 (18.9%)
+✅ Downloaded: 8f419f14-c7e3-44f3-bbbc-6d116e438944_Whispers of Rain Track 1.mp3 (3148522 bytes)
+⬇️  Downloading: Midjourney Image 20250628_185948 (image)
+📊 Progress: 54/280 (19.3%)
+✅ Downloaded: 9edd5611-e2ff-49ac-8637-53ec03ce01f9_Midjourney Image 20250628_181204.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250628_233258 (image)
+📊 Progress: 55/280 (19.6%)
+✅ Downloaded: b55bd891-9610-48ef-b289-3cf44b3310c6_Midjourney Image 20250628_183257.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_075604 (image)
+📊 Progress: 56/280 (20.0%)
+✅ Downloaded: b9480f67-33fe-498d-9072-f358a3e7daeb_Midjourney Image 20250628_183426.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_090540 (image)
+📊 Progress: 57/280 (20.4%)
+✅ Downloaded: 3749094b-44a4-4b2b-82e5-485d574dfd7f_Midjourney Image 20250628_185948.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_092616 (image)
+📊 Progress: 58/280 (20.7%)
+✅ Downloaded: c9a951ab-c2c7-4a1f-9329-cf73a51cc287_Midjourney Image 20250628_233258.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_111121 (image)
+📊 Progress: 59/280 (21.1%)
+✅ Downloaded: 9ed15ea9-793a-4b1b-9383-7b9777f356ba_Midjourney Image 20250629_075604.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_111121 (image)
+📊 Progress: 60/280 (21.4%)
+✅ Downloaded: 0dff4b79-4578-453e-9553-ca3b0937b3cf_Midjourney Image 20250629_092616.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_111121 (image)
+📊 Progress: 61/280 (21.8%)
+✅ Downloaded: a87395c7-0dd8-4520-8928-75eb55dc7575_Midjourney Image 20250629_111121.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_111121 (image)
+📊 Progress: 62/280 (22.1%)
+✅ Downloaded: 316757e0-6b8c-479c-83c6-89a7d3783478_Midjourney Image 20250629_111121.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_111121 (image)
+📊 Progress: 63/280 (22.5%)
+✅ Downloaded: 8ba4a79e-c97d-4ef2-bd04-1a18d9e7e2d8_Midjourney Image 20250629_090540.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_111958 (image)
+📊 Progress: 64/280 (22.9%)
+✅ Downloaded: c70a80c7-1b2c-4142-8353-9554565d2bdc_Midjourney Image 20250629_111121.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_111958 (image)
+📊 Progress: 65/280 (23.2%)
+✅ Downloaded: 2299637f-94f0-4fc8-80d4-1921b4bccd42_Midjourney Image 20250629_111121.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_111958 (image)
+📊 Progress: 66/280 (23.6%)
+✅ Downloaded: 927d4d31-9486-4443-820b-7bce2bca002e_Midjourney Image 20250629_111958.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_111958 (image)
+📊 Progress: 67/280 (23.9%)
+✅ Downloaded: ce06bb69-9345-4b96-b59a-5ac5eb4d1712_Midjourney Image 20250629_111121.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_111958 (image)
+📊 Progress: 68/280 (24.3%)
+✅ Downloaded: 3e195454-1774-4573-afb7-bd064aa825fa_Midjourney Image 20250629_111958.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_115125 (image)
+📊 Progress: 69/280 (24.6%)
+✅ Downloaded: 29aa6ca5-115c-4bab-aeca-2f59facdd773_Midjourney Image 20250629_111958.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_115126 (image)
+📊 Progress: 70/280 (25.0%)
+✅ Downloaded: 5e557085-7b48-44fc-83f4-60de0440bf2c_Midjourney Image 20250629_111958.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_115126 (image)
+📊 Progress: 71/280 (25.4%)
+✅ Downloaded: c707563b-4f00-4c3c-93d7-3bda185d202e_Midjourney Image 20250629_111958.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_115126 (image)
+📊 Progress: 72/280 (25.7%)
+✅ Downloaded: dce0bf6a-28f5-41a3-b39e-b591126eebed_Midjourney Image 20250629_115125.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_115126 (image)
+📊 Progress: 73/280 (26.1%)
+✅ Downloaded: c4422278-516e-4e94-b1d6-bcaa13fcf374_Midjourney Image 20250629_115126.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_130517 (image)
+📊 Progress: 74/280 (26.4%)
+✅ Downloaded: e18506b0-f378-42ca-ad98-2290d381cc53_Midjourney Image 20250629_115126.png (7033 bytes)
+⬇️  Downloading: Midjourney Image 20250629_130517 (image)
+📊 Progress: 75/280 (26.8%)
+✅ Downloaded: 60d924e7-e2a8-4138-bf36-4175cefc317f_Midjourney Image 20250629_115126.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_130517 (image)
+📊 Progress: 76/280 (27.1%)
+✅ Downloaded: 3bd84a0f-1bcd-4268-8fcd-0be4a83e961f_Midjourney Image 20250629_130517.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_130517 (image)
+📊 Progress: 77/280 (27.5%)
+✅ Downloaded: a43bacb4-da17-4569-9bcc-3deb02b0d661_Midjourney Image 20250629_115126.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_130518 (image)
+📊 Progress: 78/280 (27.9%)
+�  ��#   �d }
+~
+ww xY w✅ Downloaded: b882421e-1ce8-4bb2-aa33-7dabd7a2ac69_Midjourney Image 20250629_130517.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_134421 (image)
+📊 Progress: 79/280 (28.2%)
+✅ Downloaded: 01e5a61c-ef0c-42ee-9e27-57ed8049b096_Midjourney Image 20250629_130517.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_134421 (image)
+📊 Progress: 80/280 (28.6%)
+✅ Downloaded: cd8c075e-76c7-4134-83ac-1b8279b12465_Midjourney Image 20250629_130517.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_134421 (image)
+📊 Progress: 81/280 (28.9%)
+✅ Downloaded: f0cdba7a-ea7a-4a90-afe2-1818896640a0_Midjourney Image 20250629_134421.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_134421 (image)
+📊 Progress: 82/280 (29.3%)
+✅ Downloaded: 36b3e0bf-a0c2-42da-a819-bacdb824329b_Midjourney Image 20250629_134421.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_134421 (image)
+📊 Progress: 83/280 (29.6%)
+✅ Downloaded: 3dd7da30-566c-4c03-84eb-69fdccf5ac4e_Midjourney Image 20250629_130518.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_134838 (image)
+📊 Progress: 84/280 (30.0%)
+✅ Downloaded: dd4a25ee-c6c6-47b9-9d42-84fdc3306cf8_Midjourney Image 20250629_134421.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_134838 (image)
+📊 Progress: 85/280 (30.4%)
+✅ Downloaded: dd682083-e492-4b07-a602-469ddce5f667_Midjourney Image 20250629_134421.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_134838 (image)
+📊 Progress: 86/280 (30.7%)
+✅ Downloaded: 2cce3a87-5d45-4a83-91c3-e9f6da034021_Midjourney Image 20250629_134838.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_134838 (image)
+📊 Progress: 87/280 (31.1%)
+✅ Downloaded: b13b096b-1bb5-461a-b0b5-8fac0b1e5b0c_Midjourney Image 20250629_134421.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_134838 (image)
+📊 Progress: 88/280 (31.4%)
+✅ Downloaded: 9fc85013-57de-44f8-8564-69b741e8abbf_Midjourney Image 20250629_134838.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_154541 (image)
+📊 Progress: 89/280 (31.8%)
+✅ Downloaded: 41e86ac8-97af-4ac0-9fed-ee0cbbe8a231_Midjourney Image 20250629_134838.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_154549 (image)
+📊 Progress: 90/280 (32.1%)
+✅ Downloaded: ed08d166-a1b2-46bd-a84e-389441d2fd5c_Midjourney Image 20250629_134838.png (7033 bytes)
+⬇️  Downloading: Midjourney Image 20250629_155646 (image)
+📊 Progress: 91/280 (32.5%)
+✅ Downloaded: c4bf918b-0537-49f7-9c99-5d20820e56e8_Midjourney Image 20250629_134838.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_155646 (image)
+📊 Progress: 92/280 (32.9%)
+✅ Downloaded: c57f117b-ff7a-4363-b500-4b2054201317_Midjourney Image 20250629_154541.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_155646 (image)
+📊 Progress: 93/280 (33.2%)
+✅ Downloaded: a32c82ec-c182-4872-9073-74e07b63159a_Midjourney Image 20250629_155646.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_155647 (image)
+📊 Progress: 94/280 (33.6%)
+✅ Downloaded: a81526be-e609-438f-85bd-dbfa9d48cb5b_Midjourney Image 20250629_154549.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_155647 (image)
+📊 Progress: 95/280 (33.9%)
+✅ Downloaded: d5488083-cf26-4591-837f-f3b06b642dd5_Midjourney Image 20250629_155646.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_155726 (image)
+📊 Progress: 96/280 (34.3%)
+✅ Downloaded: 8f4876e1-bc65-4c76-a489-747e94f84bbe_Midjourney Image 20250629_155646.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_155737 (image)
+📊 Progress: 97/280 (34.6%)
+✅ Downloaded: 3e0271db-3969-4640-bdf7-801b6912f6a4_Midjourney Image 20250629_155647.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_155753 (image)
+📊 Progress: 98/280 (35.0%)
+✅ Downloaded: 130e3b90-2851-4430-98a0-b5d02d5048ca_Midjourney Image 20250629_155647.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_155809 (image)
+📊 Progress: 99/280 (35.4%)
+✅ Downloaded: 4e542a4d-189f-40c4-b226-d2a8604507ec_Midjourney Image 20250629_155726.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_155824 (image)
+📊 Progress: 100/280 (35.7%)
+✅ Downloaded: 06450b0c-8ef5-431f-b7b1-2d6078f51a31_Midjourney Image 20250629_155737.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_155840 (image)
+📊 Progress: 101/280 (36.1%)
+✅ Downloaded: a1c93acf-091e-46be-b729-056604fcec17_Midjourney Image 20250629_155753.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_155855 (image)
+📊 Progress: 102/280 (36.4%)
+✅ Downloaded: 07192700-4f7c-4874-8cc1-73c396438b47_Midjourney Image 20250629_155824.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_155911 (image)
+📊 Progress: 103/280 (36.8%)
+✅ Downloaded: 5c3ee67c-f3ee-4cf0-9889-81ea65e91e75_Midjourney Image 20250629_155809.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_155926 (image)
+📊 Progress: 104/280 (37.1%)
+✅ Downloaded: 1c743ca0-872a-4f68-8202-c78cacacc0dc_Midjourney Image 20250629_155840.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_155947 (image)
+📊 Progress: 105/280 (37.5%)
+✅ Downloaded: e12d673b-cb67-4e40-adc2-f964889668bf_Midjourney Image 20250629_155855.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160008 (image)
+📊 Progress: 106/280 (37.9%)
+✅ Downloaded: 23cf6c58-15a5-424d-8d3e-21da5118cb1f_Midjourney Image 20250629_155911.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160029 (image)
+📊 Progress: 107/280 (38.2%)
+✅ Downloaded: ff259cec-cdc5-4e44-8e64-af6c095a1fdb_Midjourney Image 20250629_155926.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160039 (image)
+📊 Progress: 108/280 (38.6%)
+✅ Downloaded: 680ef06e-0a55-4a40-9269-bab3f0f79974_Midjourney Image 20250629_155947.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160050 (image)
+📊 Progress: 109/280 (38.9%)
+✅ Downloaded: 2ae3ebbd-4228-4eba-9390-1d05bed8f9e9_Midjourney Image 20250629_160008.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160110 (image)
+📊 Progress: 110/280 (39.3%)
+✅ Downloaded: bcd315c2-9452-472b-921a-8facea20fc65_Midjourney Image 20250629_160029.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160131 (image)
+📊 Progress: 111/280 (39.6%)
+✅ Downloaded: 0b46d330-d55c-4e70-aba0-a45cbb0c5d6e_Midjourney Image 20250629_160039.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160151 (image)
+📊 Progress: 112/280 (40.0%)
+✅ Downloaded: 5f681b77-0dfe-491e-96ce-ff3f8de4e5ae_Midjourney Image 20250629_160050.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160212 (image)
+📊 Progress: 113/280 (40.4%)
+✅ Downloaded: 062da82f-8ab5-4a4d-8357-4a6e1cf64bbd_Midjourney Image 20250629_160110.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160233 (image)
+📊 Progress: 114/280 (40.7%)
+✅ Downloaded: bc60bc91-f401-4d69-9cfa-e4d3b3d9ed1f_Midjourney Image 20250629_160131.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160253 (image)
+📊 Progress: 115/280 (41.1%)
+✅ Downloaded: 209ef710-2731-42c6-b3d0-d0b83196df03_Midjourney Image 20250629_160151.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160314 (image)
+📊 Progress: 116/280 (41.4%)
+✅ Downloaded: 604d746f-9385-4be5-b634-0bb0c256f2e4_Midjourney Image 20250629_160212.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160335 (image)
+📊 Progress: 117/280 (41.8%)
+✅ Downloaded: 038d5ccf-7182-479d-9721-b8aad5165768_Midjourney Image 20250629_160233.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160356 (image)
+📊 Progress: 118/280 (42.1%)
+✅ Downloaded: e6c1020f-8c31-44f6-9586-f2373a90a1a8_Midjourney Image 20250629_160253.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160417 (image)
+📊 Progress: 119/280 (42.5%)
+✅ Downloaded: 779ceba3-de7f-4a9c-a714-03c581bc60b0_Midjourney Image 20250629_160314.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160437 (image)
+✅ Downloaded: 0e9769b2-64e3-49ff-83e2-318c758aaa0f_Midjourney Image 20250629_160335.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160458 (image)
+📊 Progress: 121/280 (43.2%)
+✅ Downloaded: 4641638a-bb6c-4d04-b8f0-2c32d1110a20_Midjourney Image 20250629_160356.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160519 (image)
+📊 Progress: 122/280 (43.6%)
+✅ Downloaded: 0d4aa332-e6c4-4d74-ba63-71743fe89431_Midjourney Image 20250629_160417.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160539 (image)
+📊 Progress: 123/280 (43.9%)
+✅ Downloaded: c39f5a40-d414-4855-be31-611dad709ade_Midjourney Image 20250629_160437.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160600 (image)
+📊 Progress: 124/280 (44.3%)
+✅ Downloaded: bb2f9ce0-b74f-45c6-8fad-553e585db6e6_Midjourney Image 20250629_160458.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160621 (image)
+📊 Progress: 125/280 (44.6%)
+✅ Downloaded: 4f5e8072-449a-4f1d-b522-d9db64a5bd76_Midjourney Image 20250629_160519.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160642 (image)
+📊 Progress: 126/280 (45.0%)
+✅ Downloaded: 7c82a6a1-7620-4cf3-951b-a248962efa04_Midjourney Image 20250629_160539.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160703 (image)
+📊 Progress: 127/280 (45.4%)
+✅ Downloaded: 30461d0a-cf6d-4b27-90b2-3d5f0e42a560_Midjourney Image 20250629_160600.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160724 (image)
+📊 Progress: 128/280 (45.7%)
+✅ Downloaded: b3ebdfee-07c5-4c88-8847-3b165c2fbc61_Midjourney Image 20250629_160621.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160745 (image)
+📊 Progress: 129/280 (46.1%)
+✅ Downloaded: 21ac4d1c-e2ca-44ef-9950-019b91fa9a4e_Midjourney Image 20250629_160642.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160806 (image)
+📊 Progress: 130/280 (46.4%)
+✅ Downloaded: aac7049a-3297-47bd-8bb4-fb1dfee3bef6_Midjourney Image 20250629_160703.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160826 (image)
+📊 Progress: 131/280 (46.8%)
+✅ Downloaded: 199b135c-4673-458d-9f3b-9e392bbe2a30_Midjourney Image 20250629_160724.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160847 (image)
+📊 Progress: 132/280 (47.1%)
+✅ Downloaded: cde1a1e0-07f2-4b19-9982-fddba769b4d7_Midjourney Image 20250629_160745.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160908 (image)
+📊 Progress: 133/280 (47.5%)
+✅ Downloaded: cfcaf56f-215c-4289-a122-55cc9a9143dd_Midjourney Image 20250629_160806.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_160928 (image)
+📊 Progress: 134/280 (47.9%)
+✅ Downloaded: 86629152-79f7-488d-8588-fc1a19fc6294_Midjourney Image 20250629_160826.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_162424 (image)
+📊 Progress: 135/280 (48.2%)
+✅ Downloaded: d64f0fe4-d0d2-40c3-8d23-dd20a22489da_Midjourney Image 20250629_160847.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_162943 (image)
+📊 Progress: 136/280 (48.6%)
+✅ Downloaded: ebd6fd77-7404-4bd4-9788-1b4422de0c08_Midjourney Image 20250629_160908.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_163923 (image)
+📊 Progress: 137/280 (48.9%)
+✅ Downloaded: c3fb0707-5261-4c3e-9cd7-d15ac68ca5e6_Midjourney Image 20250629_160928.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_163923 (image)
+📊 Progress: 138/280 (49.3%)
+✅ Downloaded: b6c4bcf0-2ba1-468a-b326-ee21afceed95_Midjourney Image 20250629_162424.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_163923 (image)
+📊 Progress: 139/280 (49.6%)
+✅ Downloaded: 9c80955a-82d1-47fb-8296-88f2e9540103_Midjourney Image 20250629_162943.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_163923 (image)
+📊 Progress: 140/280 (50.0%)
+✅ Downloaded: 36c4456c-ac92-49fb-abed-4235b4b7085f_Midjourney Image 20250629_163923.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_163923 (image)
+📊 Progress: 141/280 (50.4%)
+✅ Downloaded: 50ae9b0a-7fb9-417c-83b3-a5ae3ce0816c_Midjourney Image 20250629_163923.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_164335 (image)
+📊 Progress: 142/280 (50.7%)
+✅ Downloaded: 091c7809-fe13-45db-9f3a-05185b124073_Midjourney Image 20250629_163923.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_165314 (image)
+📊 Progress: 143/280 (51.1%)
+✅ Downloaded: 340c59db-c362-4a6d-af3a-8ba44e00c863_Midjourney Image 20250629_163923.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_165314 (image)
+📊 Progress: 144/280 (51.4%)
+✅ Downloaded: 0118c74e-7dea-4e84-9466-12038009ff96_Midjourney Image 20250629_163923.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_165314 (image)
+📊 Progress: 145/280 (51.8%)
+✅ Downloaded: c3e5dbdc-a5c9-42b9-a85c-36783c058ffc_Midjourney Image 20250629_165314.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_165314 (image)
+📊 Progress: 146/280 (52.1%)
+✅ Downloaded: f635e403-9988-4661-b615-c95e4cf55933_Midjourney Image 20250629_165314.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_165314 (image)
+📊 Progress: 147/280 (52.5%)
+✅ Downloaded: b7beb738-7fc8-45fc-be1c-070b18a8be3b_Midjourney Image 20250629_164335.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_165752 (image)
+📊 Progress: 148/280 (52.9%)
+✅ Downloaded: 41aa0b5e-2086-488b-a51c-7d06d4107d5e_Midjourney Image 20250629_165314.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_181232 (image)
+📊 Progress: 149/280 (53.2%)
+✅ Downloaded: d19322d0-2924-4dc4-97eb-f03d4acc7dd0_Midjourney Image 20250629_165314.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_181232 (image)
+📊 Progress: 150/280 (53.6%)
+✅ Downloaded: 192767c0-934b-4091-a38e-6d4a297c0dbc_Midjourney Image 20250629_165314.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_181232 (image)
+📊 Progress: 151/280 (53.9%)
+✅ Downloaded: 2b4a141a-4048-4bbc-bc73-cc0c3fc8e330_Midjourney Image 20250629_181232.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_181232 (image)
+📊 Progress: 152/280 (54.3%)
+✅ Downloaded: ab9e21cb-5470-4f42-b99c-fd8c677e054e_Midjourney Image 20250629_181232.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_181233 (image)
+📊 Progress: 153/280 (54.6%)
+✅ Downloaded: 74f25191-4cae-4a74-9b72-ef7884dfdd1c_Midjourney Image 20250629_165752.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_182748 (image)
+📊 Progress: 154/280 (55.0%)
+✅ Downloaded: e0de9052-be7f-453e-b74b-bb38568132a9_Midjourney Image 20250629_181232.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_182748 (image)
+📊 Progress: 155/280 (55.4%)
+✅ Downloaded: 3a8427ff-624d-4a4b-96a4-4e295b3641fc_Midjourney Image 20250629_181232.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_182748 (image)
+📊 Progress: 156/280 (55.7%)
+✅ Downloaded: d4077320-c64c-489d-b53d-7d187ecf6df8_Midjourney Image 20250629_182748.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_182748 (image)
+📊 Progress: 157/280 (56.1%)
+✅ Downloaded: 2a15f036-f646-47e4-b63d-a7664fda5c0b_Midjourney Image 20250629_181233.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_182748 (image)
+📊 Progress: 158/280 (56.4%)
+✅ Downloaded: 6affab14-9d28-4135-9671-68e9f5f4ae3d_Midjourney Image 20250629_182748.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_182842 (image)
+📊 Progress: 159/280 (56.8%)
+✅ Downloaded: dd6e407c-3f07-4ded-b64f-3b614fa9a94e_Midjourney Image 20250629_182748.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_182843 (image)
+📊 Progress: 160/280 (57.1%)
+✅ Downloaded: 2445a46b-e187-4f72-ae55-1a027f729139_Midjourney Image 20250629_182748.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_182843 (image)
+📊 Progress: 161/280 (57.5%)
+
+�  ��#   �d }
+~
+ww xY w✅ Downloaded: fe943195-e359-41c0-961a-04dc9a6ca19d_Midjourney Image 20250629_182842.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_182843 (image)
+📊 Progress: 162/280 (57.9%)
+✅ Downloaded: ca63321d-4d25-409e-b894-ccc060bcb999_Midjourney Image 20250629_182748.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_182843 (image)
+📊 Progress: 163/280 (58.2%)
+✅ Downloaded: 53590bfb-bfa9-4cfb-8bf6-f23536497702_Midjourney Image 20250629_182843.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_182932 (image)
+📊 Progress: 164/280 (58.6%)
+✅ Downloaded: aa1817a4-703e-405c-88a6-c730d8a2fcd9_Midjourney Image 20250629_182843.png (7033 bytes)
+⬇️  Downloading: Midjourney Image 20250629_182932 (image)
+📊 Progress: 165/280 (58.9%)
+✅ Downloaded: df9c0810-3512-4319-b42a-c6179ba013c4_Midjourney Image 20250629_182843.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_182932 (image)
+📊 Progress: 166/280 (59.3%)
+✅ Downloaded: f1785eee-3980-4141-b3fe-501f08663b17_Midjourney Image 20250629_182843.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_182932 (image)
+📊 Progress: 167/280 (59.6%)
+✅ Downloaded: e111ad95-3817-428a-9af2-4e42e6270089_Midjourney Image 20250629_182932.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_182932 (image)
+📊 Progress: 168/280 (60.0%)
+✅ Downloaded: ef1d878d-45cc-4431-af28-9963ff0cac49_Midjourney Image 20250629_182932.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_184131 (image)
+📊 Progress: 169/280 (60.4%)
+✅ Downloaded: 5256203d-d065-4dbe-9025-e56731b27cf8_Midjourney Image 20250629_182932.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_184131 (image)
+📊 Progress: 170/280 (60.7%)
+✅ Downloaded: 788e2e54-9204-4666-9c26-8fa6e2e16ff0_Midjourney Image 20250629_182932.png (7033 bytes)
+⬇️  Downloading: Midjourney Image 20250629_184132 (image)
+📊 Progress: 171/280 (61.1%)
+✅ Downloaded: 233814be-5172-40fb-a33f-f224981ed50d_Midjourney Image 20250629_182932.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_184132 (image)
+📊 Progress: 172/280 (61.4%)
+✅ Downloaded: 468f88ef-7f02-4630-8960-34569a23905d_Midjourney Image 20250629_184131.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_184132 (image)
+📊 Progress: 173/280 (61.8%)
+✅ Downloaded: d780d0c2-916c-47af-afd1-bc06af634970_Midjourney Image 20250629_184131.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_191031 (image)
+📊 Progress: 174/280 (62.1%)
+✅ Downloaded: 5d7ebadd-3922-4505-82ee-becb0f856be8_Midjourney Image 20250629_184132.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_191031 (image)
+📊 Progress: 175/280 (62.5%)
+✅ Downloaded: 57d4349c-28d4-440b-b6d3-ac25278bdb90_Midjourney Image 20250629_184132.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_191031 (image)
+📊 Progress: 176/280 (62.9%)
+✅ Downloaded: 7fe8b8a0-95ba-4e86-ba6e-c74b9174ecb7_Midjourney Image 20250629_191031.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_191031 (image)
+📊 Progress: 177/280 (63.2%)
+✅ Downloaded: 2d4ff1ec-605b-4052-9dc5-d0db175a615f_Midjourney Image 20250629_191031.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_191031 (image)
+📊 Progress: 178/280 (63.6%)
+✅ Downloaded: 7cedd150-89f3-4899-a8c5-cac9d705ee15_Midjourney Image 20250629_184132.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_191232 (image)
+📊 Progress: 179/280 (63.9%)
+✅ Downloaded: 5564817c-4ae5-4714-bb78-df364ed1b61d_Midjourney Image 20250629_191031.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_192418 (image)
+📊 Progress: 180/280 (64.3%)
+✅ Downloaded: dbbc422d-5b76-4dfc-acf4-3a3ef09b78d7_Midjourney Image 20250629_191031.png (7033 bytes)
+⬇️  Downloading: Midjourney Image 20250629_192418 (image)
+📊 Progress: 181/280 (64.6%)
+✅ Downloaded: 3ee95ee9-9166-4dc1-bc49-e9ed0bdd4199_Midjourney Image 20250629_191232.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_192418 (image)
+📊 Progress: 182/280 (65.0%)
+✅ Downloaded: 75a26a81-db10-4032-a0a4-1f731ca36ffb_Midjourney Image 20250629_191031.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_192418 (image)
+📊 Progress: 183/280 (65.4%)
+✅ Downloaded: 1fdf33c5-0653-494f-9e6d-b7a9ef15ab9d_Midjourney Image 20250629_192418.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_192418 (image)
+📊 Progress: 184/280 (65.7%)
+✅ Downloaded: 0e5f1b96-1662-43b1-9763-858706616734_Midjourney Image 20250629_192418.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_192519 (image)
+📊 Progress: 185/280 (66.1%)
+✅ Downloaded: 703ce91e-9db4-433a-bc8f-044d0a94148a_Midjourney Image 20250629_192418.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_194725 (image)
+✅ Downloaded: 6d8b8c07-12e9-433b-9239-8b7b9d397bdd_Midjourney Image 20250629_192418.png (7033 bytes)
+⬇️  Downloading: Midjourney Image 20250629_194725 (image)
+📊 Progress: 186/280 (66.4%)
+📊 Progress: 187/280 (66.8%)
+✅ Downloaded: c709da0a-aad3-4d1c-99bc-735db1a71049_Midjourney Image 20250629_192418.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_194725 (image)
+📊 Progress: 188/280 (67.1%)
+✅ Downloaded: 96807e11-0f1c-4084-ba8a-1e5b9b3c1255_Midjourney Image 20250629_192519.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_194725 (image)
+📊 Progress: 189/280 (67.5%)
+✅ Downloaded: a6ac30e0-79f6-42f7-8a39-6026624b7d1b_Midjourney Image 20250629_194725.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_194725 (image)
+📊 Progress: 190/280 (67.9%)
+✅ Downloaded: d75b6651-b944-48dd-af9f-8970c5d9a37b_Midjourney Image 20250629_194725.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_194823 (image)
+📊 Progress: 191/280 (68.2%)
+✅ Downloaded: 56854416-3127-4561-956b-f65d91f0bfb3_Midjourney Image 20250629_194725.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_195525 (image)
+📊 Progress: 192/280 (68.6%)
+✅ Downloaded: 1366d829-a4b5-4f0d-88f5-0698acaea1ee_Midjourney Image 20250629_194725.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_195526 (image)
+📊 Progress: 193/280 (68.9%)
+✅ Downloaded: ee1dc4b7-e748-4b71-a19d-c4f64b0ca95f_Midjourney Image 20250629_194725.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_195526 (image)
+📊 Progress: 194/280 (69.3%)
+✅ Downloaded: 627f78b9-d25c-472b-8068-971c0ba6b277_Midjourney Image 20250629_194823.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_195526 (image)
+📊 Progress: 195/280 (69.6%)
+✅ Downloaded: db1a5fae-edda-4513-b177-fdb414ebd639_Midjourney Image 20250629_195525.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_195526 (image)
+📊 Progress: 196/280 (70.0%)
+✅ Downloaded: 6d84d885-5c4f-43fa-be76-90a57b57e05b_Midjourney Image 20250629_195526.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_195744 (image)
+📊 Progress: 197/280 (70.4%)
+✅ Downloaded: 34ac2359-cf5a-43fb-9c0c-53b180fc5656_Midjourney Image 20250629_195526.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_195744 (image)
+📊 Progress: 198/280 (70.7%)
+✅ Downloaded: 40b1903f-ef5f-4f1c-9b49-94ac5bc6976d_Midjourney Image 20250629_195526.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_195744 (image)
+📊 Progress: 199/280 (71.1%)
+✅ Downloaded: 4cfb9c85-4308-47da-9bc5-3bb274d6126b_Midjourney Image 20250629_195526.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_195744 (image)
+📊 Progress: 200/280 (71.4%)
+✅ Downloaded: 843d745f-cc8a-49a0-9a97-a416285ceb32_Midjourney Image 20250629_195744.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_195744 (image)
+📊 Progress: 201/280 (71.8%)
+✅ Downloaded: 40b7b6d3-42a0-462f-922b-c14b954fba10_Midjourney Image 20250629_195744.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_195835 (image)
+📊 Progress: 202/280 (72.1%)
+✅ Downloaded: 94ebb01e-2947-4339-bd2b-5516bdf226ee_Midjourney Image 20250629_195744.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_201008 (image)
+✅ Downloaded: c1a224c7-ed4e-44f9-87a6-1805330b11b7_Midjourney Image 20250629_195744.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_201432 (image)
+📊 Progress: 204/280 (72.9%)
+✅ Downloaded: 85ccd4ad-f6ab-411e-8fb0-a8500a7d2284_Midjourney Image 20250629_201008.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_201432 (image)
+📊 Progress: 205/280 (73.2%)
+✅ Downloaded: aafd386f-ecb5-4d22-bf46-b12ea8eb5411_Midjourney Image 20250629_195744.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_201432 (image)
+📊 Progress: 206/280 (73.6%)
+✅ Downloaded: af5806ae-19ea-484b-b2c9-ad40d9d77dc8_Midjourney Image 20250629_195835.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_201432 (image)
+📊 Progress: 207/280 (73.9%)
+✅ Downloaded: ea6d67aa-04f4-40f4-8401-73598e204c74_Midjourney Image 20250629_201432.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_201432 (image)
+📊 Progress: 208/280 (74.3%)
+✅ Downloaded: 71136a1e-2d3d-4319-aafc-f255ba8bf5d3_Midjourney Image 20250629_201432.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_201603 (image)
+📊 Progress: 209/280 (74.6%)
+✅ Downloaded: 90b43371-a869-4e9f-96b0-057f3e389cc3_Midjourney Image 20250629_201432.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_203007 (image)
+📊 Progress: 210/280 (75.0%)
+✅ Downloaded: 5082c6ec-9fd4-4d98-8316-4b82cb4499b3_Midjourney Image 20250629_201432.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_203007 (image)
+📊 Progress: 211/280 (75.4%)
+✅ Downloaded: 3c1f3191-392c-4ee2-aadd-e617147067f3_Midjourney Image 20250629_201432.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_203007 (image)
+📊 Progress: 212/280 (75.7%)
+✅ Downloaded: cc7d60d5-3fe7-4d15-85f8-f6b63e948344_Midjourney Image 20250629_203007.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_203007 (image)
+📊 Progress: 213/280 (76.1%)
+✅ Downloaded: ed59c9d5-3dc1-491f-a9dc-63e062879924_Midjourney Image 20250629_203007.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_203007 (image)
+📊 Progress: 214/280 (76.4%)
+✅ Downloaded: e9b693eb-4ed6-44de-a593-652f5b159647_Midjourney Image 20250629_201603.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_203055 (image)
+📊 Progress: 215/280 (76.8%)
+✅ Downloaded: b8aebc77-6174-429c-8c1d-d75c0627ccea_Midjourney Image 20250629_203007.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_204004 (image)
+📊 Progress: 216/280 (77.1%)
+✅ Downloaded: 28b1cf13-94fc-4f54-8384-8e22a3e8a536_Midjourney Image 20250629_203007.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_204004 (image)
+📊 Progress: 217/280 (77.5%)
+✅ Downloaded: 7842b49c-65a8-4f9a-96a0-b26bb41829cb_Midjourney Image 20250629_203055.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_204004 (image)
+📊 Progress: 218/280 (77.9%)
+✅ Downloaded: 715efb35-0a8f-4c55-a8c8-3230e9029290_Midjourney Image 20250629_203007.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_204004 (image)
+📊 Progress: 219/280 (78.2%)
+✅ Downloaded: c9286117-885f-41f2-8ffb-1db98d114fa0_Midjourney Image 20250629_204004.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_204004 (image)
+📊 Progress: 220/280 (78.6%)
+✅ Downloaded: ab3dca90-b328-4170-a22b-9bc22fdea2ba_Midjourney Image 20250629_204004.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_204110 (image)
+📊 Progress: 221/280 (78.9%)
+✅ Downloaded: f20f810f-96f1-428f-b3c3-ec0ae8946efb_Midjourney Image 20250629_204004.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_213040 (image)
+📊 Progress: 222/280 (79.3%)
+✅ Downloaded: 59590c4d-0a49-4f8c-a306-0c88fcdfa13e_Midjourney Image 20250629_204004.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_213040 (image)
+📊 Progress: 223/280 (79.6%)
+✅ Downloaded: 763bcb18-a548-41bb-80d2-a429bfaaafa4_Midjourney Image 20250629_204004.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_213040 (image)
+📊 Progress: 224/280 (80.0%)
+✅ Downloaded: 7d84a520-b1dd-457c-a7c3-21de36bb6221_Midjourney Image 20250629_204110.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_213041 (image)
+📊 Progress: 225/280 (80.4%)
+✅ Downloaded: a84ff546-563e-418a-bbcd-5e848728ac64_Midjourney Image 20250629_213040.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_213041 (image)
+📊 Progress: 226/280 (80.7%)
+✅ Downloaded: 693eeb04-2440-4c0d-bf59-771ab58ca195_Midjourney Image 20250629_213040.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_213136 (image)
+📊 Progress: 227/280 (81.1%)
+✅ Downloaded: 6b457a5c-6f62-4e0c-901c-2d97e47301ec_Midjourney Image 20250629_213040.png (6969 bytes)
+⬇️  Downloading: Midjourney Image 20250629_214354 (image)
+📊 Progress: 228/280 (81.4%)
+✅ Downloaded: a86aa04b-8dcd-4448-8bf1-e3a4a3a51d67_Midjourney Image 20250629_213041.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_214354 (image)
+📊 Progress: 229/280 (81.8%)
+✅ Downloaded: 1b102b45-2d25-4f6f-8426-cedc256bb4e4_Midjourney Image 20250629_213041.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_214354 (image)
+📊 Progress: 230/280 (82.1%)
+✅ Downloaded: 522d3329-ef5b-44b1-bfcf-efc0fa315106_Midjourney Image 20250629_214354.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250629_214354 (image)
+📊 Progress: 231/280 (82.5%)
+✅ Downloaded: 49bbf17e-f703-425d-90b7-538449480b41_Midjourney Image 20250629_213136.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250629_214354 (image)
+📊 Progress: 232/280 (82.9%)
+✅ Downloaded: a4f25b2f-7b97-4e23-8253-c09e50fb7306_Midjourney Image 20250629_214354.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250629_214440 (image)
+📊 Progress: 233/280 (83.2%)
+✅ Downloaded: 25587a5f-6f99-4669-a837-50d93bf3e1d2_Midjourney Image 20250629_214354.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250630_103826 (image)
+📊 Progress: 234/280 (83.6%)
+✅ Downloaded: 426be728-c694-4ab5-995c-740286d75a29_Midjourney Image 20250629_214354.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250630_103827 (image)
+📊 Progress: 235/280 (83.9%)
+✅ Downloaded: bf8d53b8-1dd8-4ff6-8b0d-d6acafe8b50a_Midjourney Image 20250629_214440.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250630_103827 (image)
+📊 Progress: 236/280 (84.3%)
+✅ Downloaded: 609541e2-9f88-44d9-89ab-05579ca02543_Midjourney Image 20250629_214354.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250630_103827 (image)
+📊 Progress: 237/280 (84.6%)
+✅ Downloaded: 57edf70a-861e-40ea-a182-975a2315dcea_Midjourney Image 20250630_103827.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250630_103827 (image)
+📊 Progress: 238/280 (85.0%)
+✅ Downloaded: 593ea6c0-9bcd-4b9c-a523-cc512ec53541_Midjourney Image 20250630_103826.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250630_141251 (image)
+📊 Progress: 239/280 (85.4%)
+✅ Downloaded: 3da27d1c-b1f7-4cc3-8f4e-288322048a19_Midjourney Image 20250630_103827.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250630_141251 (image)
+📊 Progress: 240/280 (85.7%)
+✅ Downloaded: 4c6d745e-eb8a-4e4b-87aa-bf5b1c7fee92_Midjourney Image 20250630_103827.png (7033 bytes)
+⬇️  Downloading: Midjourney Image 20250630_141251 (image)
+📊 Progress: 241/280 (86.1%)
+✅ Downloaded: 5bfac697-6257-4860-9539-81b936182a28_Midjourney Image 20250630_141251.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250630_141251 (image)
+📊 Progress: 242/280 (86.4%)
+✅ Downloaded: 9bac7c4f-ddf4-4c83-a790-4a4da48a6fda_Midjourney Image 20250630_103827.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250630_141251 (image)
+📊 Progress: 243/280 (86.8%)
+✅ Downloaded: 45e1fc58-e340-442d-9c59-4f729757fdde_Midjourney Image 20250630_141251.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250630_150128 (image)
+📊 Progress: 244/280 (87.1%)
+mage 20250629_195744.png (7012 ✅ Downloaded: b3dfe889-808f-4d0c-a9cb-301307bbb113_Midjourney Image 20250630_141251.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250630_150128 (image)
+📊 Progress: 245/280 (87.5%)
+✅ Downloaded: 8e0f6d01-b326-48a9-bfd4-feeed06ebd41_Midjourney Image 20250630_141251.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250630_150128 (image)
+📊 Progress: 246/280 (87.9%)
+✅ Downloaded: 5884ab15-28c1-4e88-a487-23aab208c52b_Midjourney Image 20250630_141251.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250630_150128 (image)
+📊 Progress: 247/280 (88.2%)
+✅ Downloaded: 2ba928e7-9287-4d70-82f1-a773235b1c51_Midjourney Image 20250630_150128.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250630_150128 (image)
+📊 Progress: 248/280 (88.6%)
+✅ Downloaded: e6d4007d-e840-44e2-9735-a16680e880f2_Midjourney Image 20250630_150128.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250630_163441 (image)
+📊 Progress: 249/280 (88.9%)
+✅ Downloaded: 552d1ad0-57e4-42de-ab64-91cf9687286e_Midjourney Image 20250630_150128.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250630_163441 (image)
+📊 Progress: 250/280 (89.3%)
+✅ Downloaded: 7d0ab73c-1b73-4078-bd69-92ad83b59722_Midjourney Image 20250630_150128.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250630_163441 (image)
+📊 Progress: 251/280 (89.6%)
+✅ Downloaded: 9f96c021-a79b-4aeb-895a-6142fa498746_Midjourney Image 20250630_150128.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250630_163441 (image)
+📊 Progress: 252/280 (90.0%)
+✅ Downloaded: d8192ffa-63ff-4443-be89-c84f033ae80c_Midjourney Image 20250630_163441.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250630_163441 (image)
+📊 Progress: 253/280 (90.4%)
+✅ Downloaded: 751179f3-5edd-4619-b8be-69a32f2a650c_Midjourney Image 20250630_163441.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250701_073103 (image)
+📊 Progress: 254/280 (90.7%)
+✅ Downloaded: 0de70e33-b019-4083-905c-890aab17bd6c_Midjourney Image 20250630_163441.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250701_073104 (image)
+📊 Progress: 255/280 (91.1%)
+✅ Downloaded: 0e0a21d0-0920-4d20-904e-c722ee71c8ba_Midjourney Image 20250630_163441.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250701_073104 (image)
+📊 Progress: 256/280 (91.4%)
+✅ Downloaded: 1b361e4e-5075-41ff-a55a-9e83bbc365e1_Midjourney Image 20250701_073103.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250701_073104 (image)
+📊 Progress: 257/280 (91.8%)
+✅ Downloaded: 9925e81c-04cc-4845-ba3e-884842264293_Midjourney Image 20250630_163441.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250701_073104 (image)
+📊 Progress: 258/280 (92.1%)
+✅ Downloaded: fab6ae76-d88a-4629-8d1e-8bc7f385a8bd_Midjourney Image 20250701_073104.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250702_055403 (image)
+📊 Progress: 259/280 (92.5%)
+✅ Downloaded: f43aeb62-6dda-4896-8f3e-0d7be0ceb50d_Midjourney Image 20250701_073104.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250702_055404 (image)
+📊 Progress: 260/280 (92.9%)
+✅ Downloaded: c1168430-29e0-4bd8-a514-eeb4f4ff88ea_Midjourney Image 20250701_073104.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250702_055404 (image)
+📊 Progress: 261/280 (93.2%)
+✅ Downloaded: 3beb87b0-9ed0-4784-b8e9-35ec5b1809d4_Midjourney Image 20250701_073104.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250702_055404 (image)
+📊 Progress: 262/280 (93.6%)
+✅ Downloaded: 176f4bfb-bfe9-46cf-8aaa-a31697bb3360_Midjourney Image 20250702_055404.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250702_055404 (image)
+📊 Progress: 263/280 (93.9%)
+✅ Downloaded: c9cbbfc0-7160-4e98-9f16-d8d6b4d9099b_Midjourney Image 20250702_055403.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250702_063320 (image)
+📊 Progress: 264/280 (94.3%)
+✅ Downloaded: fecc0b57-9d0a-479a-a534-c8403bfbe6d5_Midjourney Image 20250702_055404.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250702_063320 (image)
+📊 Progress: 265/280 (94.6%)
+✅ Downloaded: 0c7968a5-ce70-4b1a-8d6f-fef25384be18_Midjourney Image 20250702_055404.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250702_063320 (image)
+📊 Progress: 266/280 (95.0%)
+✅ Downloaded: 46062c99-4a4b-4348-b515-45eb34563403_Midjourney Image 20250702_063320.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250702_063320 (image)
+📊 Progress: 267/280 (95.4%)
+✅ Downloaded: c4c28d31-6a9f-41ad-bce4-8f287148eace_Midjourney Image 20250702_063320.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250702_063320 (image)
+📊 Progress: 268/280 (95.7%)
+✅ Downloaded: fa90b6a3-9b60-4369-be9a-8dfe603dc947_Midjourney Image 20250702_055404.png (27150 bytes)
+⬇️  Downloading: Midjourney-Upscale Image 20250702_063418 (image)
+📊 Progress: 269/280 (96.1%)
+✅ Downloaded: bde7a1aa-b976-4397-b6f6-ae79258aeda5_Midjourney Image 20250702_063320.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250702_063418 (image)
+📊 Progress: 270/280 (96.4%)
+✅ Downloaded: 7f9384ac-c698-4670-aea6-1a19eb26af8d_Midjourney Image 20250702_063320.png (7012 bytes)
+⬇️  Downloading: Midjourney Image 20250703_133701 (image)
+📊 Progress: 271/280 (96.8%)
+✅ Downloaded: 1ced37b2-62eb-484f-ae85-056e2b121368_Midjourney-Upscale Image 20250702_063418.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250703_133701 (image)
+📊 Progress: 272/280 (97.1%)
+✅ Downloaded: 0127928b-6183-4f19-877a-4a3ba25def48_Midjourney Image 20250702_063320.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250703_133701 (image)
+📊 Progress: 273/280 (97.5%)
+✅ Downloaded: a3d74eb0-64d2-4a7a-a470-15b5efe8b37c_Midjourney Image 20250702_063418.png (27150 bytes)
+⬇️  Downloading: Midjourney Image 20250703_133701 (image)
+📊 Progress: 274/280 (97.9%)
+✅ Downloaded: 331a2f71-0c2f-4d7f-a11c-98a8f2ef506f_Midjourney Image 20250703_133701.png (6990 bytes)
+⬇️  Downloading: Midjourney Image 20250703_133701 (image)
+📊 Progress: 275/280 (98.2%)
+✅ Downloaded: 6c96fcab-8eed-4913-93aa-930f1d59b508_Midjourney Image 20250703_133701.png (6990 bytes)
+📊 Progress: 276/280 (98.6%)
+✅ Downloaded: 9e9f7b1f-3c43-475b-b04e-66a18780390d_Midjourney Image 20250703_133701.png (7012 bytes)
+📊 Progress: 277/280 (98.9%)
+✅ Downloaded: 8ce50ef4-95cf-4792-ac08-f2d5ddaab372_Midjourney Image 20250703_133701.png (7012 bytes)
+📊 Progress: 278/280 (99.3%)
+✅ Downloaded: 0c336197-8b8d-4651-9ed0-dd879a2830a1_Midjourney Image 20250703_133701.png (27150 bytes)
+📊 Progress: 279/280 (99.6%)
+✅ Downloaded: aa2607c7-6a1d-4a3f-8c73-044172cffd60_Test Lofi Image.jpg (1256 bytes)
+📊 Progress: 280/280 (100.0%)
+
+📊 Download completato:
+   ✅ Successi: 280
+   ❌ Falliti: 0
+📋 Manifest salvato: ./media_backup_digitalocean/manifest.json
+
+🧹 Pulizia database - eliminazione 280 asset...
+🗑️  Eliminato: Test Audio Track - Database Fix
+🗑️  Eliminato: Serenity in the Garden
+🗑️  Eliminato: Serenity in the Garden
+🗑️  Eliminato: Udio Audio 20250628_180942
+🗑️  Eliminato: Whispers of Summer (Track 1)
+🗑️  Eliminato: Udio Audio 20250628_181031
+🗑️  Eliminato: Udio Audio 20250628_181031
+🗑️  Eliminato: Udio Audio 20250628_180942
+🗑️  Eliminato: Whispers of Summer (Track 1)
+🗑️  Eliminato: Whispers of Summer (Track 2)
+🗑️  Eliminato: Whispers of Summer (Track 2)
+🗑️  Eliminato: Whispers of Summer (Track 1)
+🗑️  Eliminato: Test Lofi Track
+🗑️  Eliminato: Whispers of Summer (Track 2)
+🗑️  Eliminato: Whispers of the Shore (Track 1)
+🗑️  Eliminato: Whispers of the Shore (Track 2)
+🗑️  Eliminato: Whispers of Summer (Track 1)
+🗑️  Eliminato: Whispers of the Shore (Track 1)
+🗑️  Eliminato: Whispers of Summer (Track 2)
+🗑️  Eliminato: Whispers of the Shore (Track 2)
+🗑️  Eliminato: Whispers of Nostalgia (Track 1)
+🗑️  Eliminato: Echoing Time (Track 1)
+🗑️  Eliminato: Whispers Among Pages (Track 2)
+🗑️  Eliminato: Midnight Melodies (Track 2)
+🗑️  Eliminato: Soulful Reverie (Track 1)
+🗑️  Eliminato: Time's Gentle Echo (Track 2)
+🗑️  Eliminato: Midnight Melodies (Track 1)
+🗑️  Eliminato: Whispers Among the Pages (Track 1)
+🗑️  Eliminato: Whispers in the Stacks (Track 2)
+🗑️  Eliminato: Whispers of the Past (Track 1)
+🗑️  Eliminato: Soulful Whispers (Track 2)
+🗑️  Eliminato: Whispers of the Past (Track 2)
+🗑️  Eliminato: Gentle Sway (Track 1)
+🗑️  Eliminato: Cobbled Whispers (Track 2)
+🗑️  Eliminato: Raindrop Reverie (Track 2)
+🗑️  Eliminato: Under the Streetlamp Glow (Track 1)
+🗑️  Eliminato: Raindrop Reverie (Track 1)
+🗑️  Eliminato: Gentle Sway (Track 2)
+🗑️  Eliminato: Flicker of Solitude (Track 1)
+🗑️  Eliminato: River Reflections (Track 1)
+🗑️  Eliminato: Tram Ride by the River (Track 1)
+🗑️  Eliminato: Flicker of Light (Track 2)
+🗑️  Eliminato: River Reverie (Track 2)
+🗑️  Eliminato: Whispers in the Rain (Track 1)
+🗑️  Eliminato: Whispers of Rain (Track 2)
+🗑️  Eliminato: Whispers of the Rain (Track 2)
+🗑️  Eliminato: Riverside Rhythm (Track 2)
+🗑️  Eliminato: Test Asset With PostgreSQL
+🗑️  Eliminato: Midjourney Image 4 - Soft sunlight filters through ...
+🗑️  Eliminato: Midjourney Image 1 - Soft sunlight filters through ...
+🗑️  Eliminato: Midjourney Image 2 - Soft sunlight filters through ...
+🗑️  Eliminato: Midjourney Image 3 - Soft sunlight filters through ...
+🗑️  Eliminato: Midjourney Image 20250628_164908
+🗑️  Eliminato: Whispers of Rain (Track 1)
+🗑️  Eliminato: Midjourney Image 20250628_181204
+🗑️  Eliminato: Midjourney Image 20250628_183257
+🗑️  Eliminato: Midjourney Image 20250628_183426
+🗑️  Eliminato: Midjourney Image 20250628_185948
+🗑️  Eliminato: Midjourney Image 20250628_233258
+🗑️  Eliminato: Midjourney Image 20250629_075604
+🗑️  Eliminato: Midjourney Image 20250629_092616
+🗑️  Eliminato: Midjourney Image 20250629_111121
+🗑️  Eliminato: Midjourney Image 20250629_111121
+🗑️  Eliminato: Midjourney Image 20250629_090540
+🗑️  Eliminato: Midjourney Image 20250629_111121
+🗑️  Eliminato: Midjourney Image 20250629_111121
+🗑️  Eliminato: Midjourney Image 20250629_111958
+🗑️  Eliminato: Midjourney Image 20250629_111121
+🗑️  Eliminato: Midjourney Image 20250629_111958
+🗑️  Eliminato: Midjourney Image 20250629_111958
+🗑️  Eliminato: Midjourney Image 20250629_111958
+🗑️  Eliminato: Midjourney Image 20250629_111958
+🗑️  Eliminato: Midjourney Image 20250629_115125
+🗑️  Eliminato: Midjourney Image 20250629_115126
+🗑️  Eliminato: Midjourney Image 20250629_115126
+🗑️  Eliminato: Midjourney Image 20250629_115126
+🗑️  Eliminato: Midjourney Image 20250629_130517
+🗑️  Eliminato: Midjourney Image 20250629_115126
+🗑️  Eliminato: Midjourney Image 20250629_130517
+🗑️  Eliminato: Midjourney Image 20250629_130517
+🗑️  Eliminato: Midjourney Image 20250629_130517
+🗑️  Eliminato: Midjourney Image 20250629_134421
+🗑️  Eliminato: Midjourney Image 20250629_134421
+🗑️  Eliminato: Midjourney Image 20250629_130518
+🗑️  Eliminato: Midjourney Image 20250629_134421
+🗑️  Eliminato: Midjourney Image 20250629_134421
+🗑️  Eliminato: Midjourney Image 20250629_134838
+🗑️  Eliminato: Midjourney Image 20250629_134421
+🗑️  Eliminato: Midjourney Image 20250629_134838
+🗑️  Eliminato: Midjourney Image 20250629_134838
+🗑️  Eliminato: Midjourney Image 20250629_134838
+🗑️  Eliminato: Midjourney Image 20250629_134838
+🗑️  Eliminato: Midjourney Image 20250629_154541
+🗑️  Eliminato: Midjourney Image 20250629_155646
+🗑️  Eliminato: Midjourney Image 20250629_154549
+🗑️  Eliminato: Midjourney Image 20250629_155646
+🗑️  Eliminato: Midjourney Image 20250629_155646
+🗑️  Eliminato: Midjourney Image 20250629_155647
+🗑️  Eliminato: Midjourney Image 20250629_155647
+🗑️  Eliminato: Midjourney Image 20250629_155726
+🗑️  Eliminato: Midjourney Image 20250629_155737
+🗑️  Eliminato: Midjourney Image 20250629_155753
+🗑️  Eliminato: Midjourney Image 20250629_155824
+🗑️  Eliminato: Midjourney Image 20250629_155809
+🗑️  Eliminato: Midjourney Image 20250629_155840
+🗑️  Eliminato: Midjourney Image 20250629_155855
+🗑️  Eliminato: Midjourney Image 20250629_155911
+🗑️  Eliminato: Midjourney Image 20250629_155926
+🗑️  Eliminato: Midjourney Image 20250629_155947
+🗑️  Eliminato: Midjourney Image 20250629_160008
+🗑️  Eliminato: Midjourney Image 20250629_160029
+🗑️  Eliminato: Midjourney Image 20250629_160039
+🗑️  Eliminato: Midjourney Image 20250629_160050
+🗑️  Eliminato: Midjourney Image 20250629_160110
+🗑️  Eliminato: Midjourney Image 20250629_160131
+🗑️  Eliminato: Midjourney Image 20250629_160151
+🗑️  Eliminato: Midjourney Image 20250629_160212
+🗑️  Eliminato: Midjourney Image 20250629_160233
+🗑️  Eliminato: Midjourney Image 20250629_160253
+🗑️  Eliminato: Midjourney Image 20250629_160314
+🗑️  Eliminato: Midjourney Image 20250629_160335
+🗑️  Eliminato: Midjourney Image 20250629_160356
+🗑️  Eliminato: Midjourney Image 20250629_160417
+🗑️  Eliminato: Midjourney Image 20250629_160437
+🗑️  Eliminato: Midjourney Image 20250629_160458
+🗑️  Eliminato: Midjourney Image 20250629_160519
+🗑️  Eliminato: Midjourney Image 20250629_160539
+🗑️  Eliminato: Midjourney Image 20250629_160600
+🗑️  Eliminato: Midjourney Image 20250629_160621
+🗑️  Eliminato: Midjourney Image 20250629_160642
+🗑️  Eliminato: Midjourney Image 20250629_160703
+🗑️  Eliminato: Midjourney Image 20250629_160724
+🗑️  Eliminato: Midjourney Image 20250629_160745
+🗑️  Eliminato: Midjourney Image 20250629_160806
+🗑️  Eliminato: Midjourney Image 20250629_160826
+🗑️  Eliminato: Midjourney Image 20250629_160847
+🗑️  Eliminato: Midjourney Image 20250629_160908
+🗑️  Eliminato: Midjourney Image 20250629_160928
+🗑️  Eliminato: Midjourney Image 20250629_162424
+🗑️  Eliminato: Midjourney Image 20250629_162943
+🗑️  Eliminato: Midjourney Image 20250629_163923
+🗑️  Eliminato: Midjourney Image 20250629_163923
+🗑️  Eliminato: Midjourney Image 20250629_163923
+🗑️  Eliminato: Midjourney Image 20250629_163923
+🗑️  Eliminato: Midjourney Image 20250629_163923
+🗑️  Eliminato: Midjourney Image 20250629_165314
+🗑️  Eliminato: Midjourney Image 20250629_165314
+🗑️  Eliminato: Midjourney Image 20250629_164335
+🗑️  Eliminato: Midjourney Image 20250629_165314
+🗑️  Eliminato: Midjourney Image 20250629_165314
+🗑️  Eliminato: Midjourney Image 20250629_165314
+🗑️  Eliminato: Midjourney Image 20250629_181232
+🗑️  Eliminato: Midjourney Image 20250629_181232
+🗑️  Eliminato: Midjourney Image 20250629_165752
+🗑️  Eliminato: Midjourney Image 20250629_181232
+🗑️  Eliminato: Midjourney Image 20250629_181232
+🗑️  Eliminato: Midjourney Image 20250629_182748
+🗑️  Eliminato: Midjourney Image 20250629_181233
+🗑️  Eliminato: Midjourney Image 20250629_182748
+🗑️  Eliminato: Midjourney Image 20250629_182748
+🗑️  Eliminato: Midjourney Image 20250629_182748
+🗑️  Eliminato: Midjourney Image 20250629_182842
+🗑️  Eliminato: Midjourney Image 20250629_182748
+🗑️  Eliminato: Midjourney Image 20250629_182843
+🗑️  Eliminato: Midjourney Image 20250629_182843
+🗑️  Eliminato: Midjourney Image 20250629_182843
+🗑️  Eliminato: Midjourney Image 20250629_182843
+🗑️  Eliminato: Midjourney Image 20250629_182932
+🗑️  Eliminato: Midjourney Image 20250629_182932
+🗑️  Eliminato: Midjourney Image 20250629_182932
+🗑️  Eliminato: Midjourney Image 20250629_182932
+🗑️  Eliminato: Midjourney Image 20250629_182932
+🗑️  Eliminato: Midjourney Image 20250629_184131
+🗑️  Eliminato: Midjourney Image 20250629_184131
+🗑️  Eliminato: Midjourney Image 20250629_184132
+🗑️  Eliminato: Midjourney Image 20250629_184132
+🗑️  Eliminato: Midjourney Image 20250629_191031
+🗑️  Eliminato: Midjourney Image 20250629_191031
+🗑️  Eliminato: Midjourney Image 20250629_184132
+🗑️  Eliminato: Midjourney Image 20250629_191031
+🗑️  Eliminato: Midjourney Image 20250629_191031
+🗑️  Eliminato: Midjourney Image 20250629_191232
+🗑️  Eliminato: Midjourney Image 20250629_191031
+🗑️  Eliminato: Midjourney Image 20250629_192418
+🗑️  Eliminato: Midjourney Image 20250629_192418
+🗑️  Eliminato: Midjourney Image 20250629_192418
+🗑️  Eliminato: Midjourney Image 20250629_192418
+🗑️  Eliminato: Midjourney Image 20250629_192418
+🗑️  Eliminato: Midjourney Image 20250629_192519
+🗑️  Eliminato: Midjourney Image 20250629_194725
+🗑️  Eliminato: Midjourney Image 20250629_194725
+🗑️  Eliminato: Midjourney Image 20250629_194725
+🗑️  Eliminato: Midjourney Image 20250629_194725
+🗑️  Eliminato: Midjourney Image 20250629_194725
+🗑️  Eliminato: Midjourney Image 20250629_194823
+🗑️  Eliminato: Midjourney Image 20250629_195525
+🗑️  Eliminato: Midjourney Image 20250629_195526
+🗑️  Eliminato: Midjourney Image 20250629_195526
+🗑️  Eliminato: Midjourney Image 20250629_195526
+🗑️  Eliminato: Midjourney Image 20250629_195526
+🗑️  Eliminato: Midjourney Image 20250629_195744
+🗑️  Eliminato: Midjourney Image 20250629_195744
+🗑️  Eliminato: Midjourney Image 20250629_195744
+🗑️  Eliminato: Midjourney Image 20250629_195744
+🗑️  Eliminato: Midjourney Image 20250629_201008
+🗑️  Eliminato: Midjourney Image 20250629_195744
+🗑️  Eliminato: Midjourney Image 20250629_195835
+🗑️  Eliminato: Midjourney Image 20250629_201432
+🗑️  Eliminato: Midjourney Image 20250629_201432
+🗑️  Eliminato: Midjourney Image 20250629_201432
+🗑️  Eliminato: Midjourney Image 20250629_201432
+🗑️  Eliminato: Midjourney Image 20250629_201432
+🗑️  Eliminato: Midjourney Image 20250629_203007
+🗑️  Eliminato: Midjourney Image 20250629_203007
+🗑️  Eliminato: Midjourney Image 20250629_201603
+🗑️  Eliminato: Midjourney Image 20250629_203007
+🗑️  Eliminato: Midjourney Image 20250629_203007
+🗑️  Eliminato: Midjourney Image 20250629_203055
+🗑️  Eliminato: Midjourney Image 20250629_203007
+🗑️  Eliminato: Midjourney Image 20250629_204004
+🗑️  Eliminato: Midjourney Image 20250629_204004
+🗑️  Eliminato: Midjourney Image 20250629_204004
+🗑️  Eliminato: Midjourney Image 20250629_204004
+🗑️  Eliminato: Midjourney Image 20250629_204004
+🗑️  Eliminato: Midjourney Image 20250629_204110
+🗑️  Eliminato: Midjourney Image 20250629_213040
+🗑️  Eliminato: Midjourney Image 20250629_213040
+🗑️  Eliminato: Midjourney Image 20250629_213040
+🗑️  Eliminato: Midjourney Image 20250629_213041
+🗑️  Eliminato: Midjourney Image 20250629_213041
+🗑️  Eliminato: Midjourney Image 20250629_214354
+🗑️  Eliminato: Midjourney Image 20250629_213136
+🗑️  Eliminato: Midjourney Image 20250629_214354
+🗑️  Eliminato: Midjourney Image 20250629_214354
+🗑️  Eliminato: Midjourney Image 20250629_214354
+🗑️  Eliminato: Midjourney Image 20250629_214440
+🗑️  Eliminato: Midjourney Image 20250629_214354
+🗑️  Eliminato: Midjourney Image 20250630_103827
+🗑️  Eliminato: Midjourney Image 20250630_103826
+🗑️  Eliminato: Midjourney Image 20250630_103827
+🗑️  Eliminato: Midjourney Image 20250630_103827
+🗑️  Eliminato: Midjourney Image 20250630_141251
+🗑️  Eliminato: Midjourney Image 20250630_103827
+🗑️  Eliminato: Midjourney Image 20250630_141251
+🗑️  Eliminato: Midjourney Image 20250630_141251
+🗑️  Eliminato: Midjourney Image 20250630_141251
+🗑️  Eliminato: Midjourney Image 20250630_141251
+🗑️  Eliminato: Midjourney Image 20250630_150128
+🗑️  Eliminato: Midjourney Image 20250630_150128
+🗑️  Eliminato: Midjourney Image 20250630_150128
+🗑️  Eliminato: Midjourney Image 20250630_150128
+🗑️  Eliminato: Midjourney Image 20250630_150128
+🗑️  Eliminato: Midjourney Image 20250630_163441
+🗑️  Eliminato: Midjourney Image 20250630_163441
+🗑️  Eliminato: Midjourney Image 20250630_163441
+🗑️  Eliminato: Midjourney Image 20250630_163441
+🗑️  Eliminato: Midjourney Image 20250701_073103
+🗑️  Eliminato: Midjourney Image 20250630_163441
+🗑️  Eliminato: Midjourney Image 20250701_073104
+🗑️  Eliminato: Midjourney Image 20250701_073104
+🗑️  Eliminato: Midjourney Image 20250701_073104
+🗑️  Eliminato: Midjourney Image 20250701_073104
+🗑️  Eliminato: Midjourney Image 20250702_055404
+🗑️  Eliminato: Midjourney Image 20250702_055403
+🗑️  Eliminato: Midjourney Image 20250702_055404
+🗑️  Eliminato: Midjourney Image 20250702_055404
+🗑️  Eliminato: Midjourney Image 20250702_063320
+🗑️  Eliminato: Midjourney Image 20250702_063320
+🗑️  Eliminato: Midjourney Image 20250702_055404
+🗑️  Eliminato: Midjourney Image 20250702_063320
+🗑️  Eliminato: Midjourney Image 20250702_063320
+🗑️  Eliminato: Midjourney-Upscale Image 20250702_063418
+🗑️  Eliminato: Midjourney Image 20250702_063320
+🗑️  Eliminato: Midjourney Image 20250702_063418
+🗑️  Eliminato: Midjourney Image 20250703_133701
+🗑️  Eliminato: Midjourney Image 20250703_133701
+🗑️  Eliminato: Midjourney Image 20250703_133701
+🗑️  Eliminato: Midjourney Image 20250703_133701
+🗑️  Eliminato: Midjourney Image 20250703_133701
+🗑️  Eliminato: Test Lofi Image
+✅ Database pulito: 280 asset eliminati
+📝 Log salvato: ./download_log_20250717_114343.json
+
+============================================================
+🎉 OPERAZIONE POSTGRESQL COMPLETATA
+============================================================
+⏱️  Durata: 189.7 secondi
+📁 Directory backup: ./media_backup_digitalocean
+📊 Asset totali: 280
+✅ Download riusciti: 280
+❌ Download falliti: 0
+🗑️  Eliminati dal DB: 280
+💰 Costo totale scaricato: $40.79
+📝 Log completo: ./download_log_20250717_114343.json
+📋 Manifest: ./media_backup_digitalocean/manifest.json
+📄 Summary salvato: download_summary.txt
+🔌 Connessione database chiusa
+
+✅ OPERAZIONE POSTGRESQL COMPLETATA CON SUCCESSO!
+📁 Tutti i file media sono stati scaricati localmente
+🧹 Il database PostgreSQL Digital Ocean è stato pulito
+📋 Controlla i file manifest.json e download_summary.txt per i dettagli

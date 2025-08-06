@@ -1,0 +1,12 @@
+DOWNLOAD E PULIZIA DATABASE POSTGRESQL COMPLETATA
+=================================================
+Data: 2025-07-17T11:46:52.815285
+Database: PostgreSQL Digital Ocean
+Host: lofi-production-db-do-user-23489218-0.m.db.ondigitalocean.com
+Asset totali: 280
+Download riusciti: 280
+Download falliti: 0
+Eliminati dal DB: 280
+Costo totale: $40.79
+Directory backup: ./media_backup_digitalocean
+Durata: 189.7 secondi

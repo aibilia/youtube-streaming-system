@@ -1,0 +1,364 @@
+-- Script per implementare nomenclatura streaming
+-- Generato automaticamente - TESTARE PRIMA IN AMBIENTE DEV
+
+BEGIN;
+
+-- Backup prima della modifica
+CREATE TABLE IF NOT EXISTS assets_backup_nomenclature AS 
+SELECT * FROM assets WHERE type = 'audio';
+
+-- Update nomenclatura e metadata
+
+-- Test Audio Track - Database Fix -> lofi_chill_general_01
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_01',
+    asset_extra_metadata = '{"test_fix": true, "created_by": "database_fix_verification", "genre": "lofi", "mood": "chill", "energy_level": 3, "time_of_day": "afternoon", "collection": "general", "instruments": [], "bpm_estimate": 70, "themes": []}'::json
+WHERE id = '24138a60-dc1b-4c33-aef4-a04425c148ac';
+
+-- Test Lofi Track -> lofi_chill_general_02
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_02',
+    asset_extra_metadata = '{"test": true, "genre": "lofi", "mood": "chill", "energy_level": 5, "time_of_day": "afternoon", "collection": "general", "instruments": [], "bpm_estimate": 80, "themes": []}'::json
+WHERE id = '4ed557c2-097f-4260-8a78-4e09a98cc0ad';
+
+-- Serenity in the Garden -> lofi_chill_water_elements_01
+UPDATE assets 
+SET 
+    name = 'lofi_chill_water_elements_01',
+    asset_extra_metadata = '{"generated_at": "2025-06-28T11:19:26.731Z", "track_id": "track-1", "task_id": "c10da7c9-c65f-4533-9531-552e9e5c39dc", "udio_song_id": "05a1e2bd-5ff7-4ecf-8330-edf384287cc3", "song_index": 1, "total_songs": 2, "tags": ["downtempo", "idm", "chillout", "electronic", "chillwave", "folktronica", "instrumental", "warm", "peaceful", "repetitive", "atmospheric", "lush", "rhythmic", "soft", "calm", "mellow", "sampling", "ethereal", "uplifting", "melodic"], "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/204fcae8-a76f-4d40-152f-c83eebca2f00/public", "genre": "lofi", "mood": "chill", "energy_level": 3, "time_of_day": "afternoon", "collection": "water_elements", "instruments": [], "bpm_estimate": 70, "themes": ["chill", "rain", "nature"]}'::json
+WHERE id = '3cac67cc-152d-4d02-828e-a05ede0096df';
+
+-- Serenity in the Garden -> lofi_chill_water_elements_02
+UPDATE assets 
+SET 
+    name = 'lofi_chill_water_elements_02',
+    asset_extra_metadata = '{"generated_at": "2025-06-28T11:19:27.007Z", "track_id": "track-1", "task_id": "c10da7c9-c65f-4533-9531-552e9e5c39dc", "udio_song_id": "5827e8e9-3e69-4e9d-a82f-35a59580f27f", "song_index": 2, "total_songs": 2, "tags": ["downtempo", "idm", "chillout", "electronic", "chillwave", "folktronica", "instrumental", "warm", "peaceful", "repetitive", "atmospheric", "lush", "rhythmic", "soft", "calm", "mellow", "sampling", "ethereal", "uplifting", "melodic"], "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/a6e12cb2-36a2-45a6-482b-52eba6ad9200/public", "genre": "lofi", "mood": "chill", "energy_level": 3, "time_of_day": "afternoon", "collection": "water_elements", "instruments": [], "bpm_estimate": 70, "themes": ["chill", "rain", "nature"]}'::json
+WHERE id = 'f692c181-016b-4056-985f-eb240913a87c';
+
+-- Udio Audio 20250628_180942 -> lofi_chill_general_03
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_03',
+    asset_extra_metadata = '{"song_id": "2bf85786-447a-48a5-8149-dc6965113d51", "title": "Whispers of Evening", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/d5835509-2b6e-49f4-3a9d-86b07eafe000/public", "tags": ["rock", "folk rock", "country rock", "mellow", "love", "sentimental", "instrumental"], "task_id": "3eafd106-5d55-4dff-bfdf-4aebf88c46fd", "song_index": 0, "genre": "lofi", "mood": "chill", "energy_level": 3, "time_of_day": "afternoon", "collection": "general", "instruments": [], "bpm_estimate": 70, "themes": ["chill"]}'::json
+WHERE id = '64caca05-3e09-4175-a73e-0fccbc8c7fe4';
+
+-- Udio Audio 20250628_180942 -> lofi_chill_general_04
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_04',
+    asset_extra_metadata = '{"song_id": "a6003a2b-74c7-43cb-ad0d-1200bf0b93d4", "title": "Whispers of Evening", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/5dfbb360-f084-45cf-619d-f9340f3d1c00/public", "tags": ["male vocalist", "folk", "indie folk", "singer-songwriter", "contemporary folk", "melodic", "melancholic", "atmospheric", "acoustic", "sentimental", "introspective", "mellow", "instrumental"], "task_id": "3eafd106-5d55-4dff-bfdf-4aebf88c46fd", "song_index": 1, "genre": "lofi", "mood": "chill", "energy_level": 3, "time_of_day": "afternoon", "collection": "general", "instruments": [], "bpm_estimate": 70, "themes": ["chill"]}'::json
+WHERE id = 'd1464933-3c7b-4e37-82c7-d74e8452582e';
+
+-- Udio Audio 20250628_181031 -> lofi_chill_general_05
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_05',
+    asset_extra_metadata = '{"song_id": "995152c1-613f-4d08-aa94-5f82082cbe6e", "title": "Whispers of Serenity", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/b877a2d6-21d4-4fdc-b990-275a5cadba00/public", "tags": ["ambient", "gentle", "piano melody", "distant guitar strums", "soft whispers", "soothing crickets", "instrumental"], "task_id": "610300b8-30af-4d4d-b0b0-886d2351565f", "song_index": 0, "genre": "lofi", "mood": "chill", "energy_level": 4, "time_of_day": "night", "collection": "general", "instruments": ["piano", "guitar"], "bpm_estimate": 75, "themes": ["chill", "ambient"]}'::json
+WHERE id = '992c010c-d7c8-4054-a5e6-037e9419c979';
+
+-- Udio Audio 20250628_181031 -> lofi_chill_general_06
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_06',
+    asset_extra_metadata = '{"song_id": "abe7f2ff-c754-4386-96fe-39af42d30764", "title": "Whispers of Evening", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/14bf2187-5259-42ed-676b-d6f379a43900/public", "tags": ["ambient", "piano melody", "distant guitar strums", "soft whispers", "rustling leaves", "soothing crickets chirping", "instrumental"], "task_id": "610300b8-30af-4d4d-b0b0-886d2351565f", "song_index": 1, "genre": "lofi", "mood": "chill", "energy_level": 4, "time_of_day": "night", "collection": "general", "instruments": ["piano", "guitar"], "bpm_estimate": 75, "themes": ["chill", "ambient"]}'::json
+WHERE id = '869ce9df-7fe9-4caf-a9e4-33af2b9b3cc9';
+
+-- Whispers of Summer (Track 1) -> lofi_chill_general_07
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_07',
+    asset_extra_metadata = '{"generated_at": "2025-06-29T11:19:50.827346", "task_id": "fc813d89-532d-4406-ab13-4d15cc908de9", "udio_song_id": "153afe45-44c2-4a67-a838-9a3e0b6e61e7", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/f68f379f-61cb-440b-de90-eca6a7fbb000/public", "tags": ["folk", "gentle guitar strums", "soft wind chimes", "breezy", "summer", "lush green grass", "instrumental"], "original_prompt": "Gentle guitar strums layered with soft wind chimes, evoking a breezy summer stroll in a field of lush green grass.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 4, "time_of_day": "night", "collection": "general", "instruments": ["guitar", "chime"], "bpm_estimate": 75, "themes": ["chill", "nature"]}'::json
+WHERE id = 'b77fc3ea-4c0a-4c3e-9d1c-42182388b1a5';
+
+-- Whispers of Summer (Track 2) -> lofi_chill_general_08
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_08',
+    asset_extra_metadata = '{"generated_at": "2025-06-29T11:19:50.884502", "task_id": "fc813d89-532d-4406-ab13-4d15cc908de9", "udio_song_id": "965aa7ba-482c-4017-b2a0-15e839580870", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/4bac3246-76db-4cc2-2a1c-d80750b8bb00/public", "tags": ["acoustic", "gentle guitar strums", "soft wind chimes", "breezy", "summer", "lush green grass", "instrumental"], "original_prompt": "Gentle guitar strums layered with soft wind chimes, evoking a breezy summer stroll in a field of lush green grass.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 4, "time_of_day": "night", "collection": "general", "instruments": ["guitar", "chime"], "bpm_estimate": 75, "themes": ["chill", "nature"]}'::json
+WHERE id = 'e9d91104-5a37-4488-957a-ff4cc7ca566b';
+
+-- Whispers of Summer (Track 1) -> lofi_chill_general_09
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_09',
+    asset_extra_metadata = '{"generated_at": "2025-06-29T11:20:39.715310", "task_id": "fc813d89-532d-4406-ab13-4d15cc908de9", "udio_song_id": "153afe45-44c2-4a67-a838-9a3e0b6e61e7", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/f68f379f-61cb-440b-de90-eca6a7fbb000/public", "tags": ["folk", "gentle guitar strums", "soft wind chimes", "breezy", "summer", "lush green grass", "instrumental"], "original_prompt": "Gentle guitar strums layered with soft wind chimes, evoking a breezy summer stroll in a field of lush green grass.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 4, "time_of_day": "night", "collection": "general", "instruments": ["guitar", "chime"], "bpm_estimate": 75, "themes": ["chill", "nature"]}'::json
+WHERE id = 'e7ea25cd-7ced-4b7a-8abb-aa1842158b3a';
+
+-- Whispers of Summer (Track 2) -> lofi_chill_general_10
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_10',
+    asset_extra_metadata = '{"generated_at": "2025-06-29T11:20:39.771537", "task_id": "fc813d89-532d-4406-ab13-4d15cc908de9", "udio_song_id": "965aa7ba-482c-4017-b2a0-15e839580870", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/4bac3246-76db-4cc2-2a1c-d80750b8bb00/public", "tags": ["acoustic", "gentle guitar strums", "soft wind chimes", "breezy", "summer", "lush green grass", "instrumental"], "original_prompt": "Gentle guitar strums layered with soft wind chimes, evoking a breezy summer stroll in a field of lush green grass.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 4, "time_of_day": "night", "collection": "general", "instruments": ["guitar", "chime"], "bpm_estimate": 75, "themes": ["chill", "nature"]}'::json
+WHERE id = 'c6810ea4-7b73-4ae6-afa7-9cafa8bcabd0';
+
+-- Whispers of Summer (Track 1) -> lofi_chill_general_11
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_11',
+    asset_extra_metadata = '{"generated_at": "2025-06-29T11:20:48.717843", "task_id": "fc813d89-532d-4406-ab13-4d15cc908de9", "udio_song_id": "153afe45-44c2-4a67-a838-9a3e0b6e61e7", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/f68f379f-61cb-440b-de90-eca6a7fbb000/public", "tags": ["folk", "gentle guitar strums", "soft wind chimes", "breezy", "summer", "lush green grass", "instrumental"], "original_prompt": "Gentle guitar strums layered with soft wind chimes, evoking a breezy summer stroll in a field of lush green grass.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 4, "time_of_day": "night", "collection": "general", "instruments": ["guitar", "chime"], "bpm_estimate": 75, "themes": ["chill", "nature"]}'::json
+WHERE id = 'a6ab37f9-69ce-4d43-8fd0-2e98a97a9a9f';
+
+-- Whispers of Summer (Track 2) -> lofi_chill_general_12
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_12',
+    asset_extra_metadata = '{"generated_at": "2025-06-29T11:20:48.773825", "task_id": "fc813d89-532d-4406-ab13-4d15cc908de9", "udio_song_id": "965aa7ba-482c-4017-b2a0-15e839580870", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/4bac3246-76db-4cc2-2a1c-d80750b8bb00/public", "tags": ["acoustic", "gentle guitar strums", "soft wind chimes", "breezy", "summer", "lush green grass", "instrumental"], "original_prompt": "Gentle guitar strums layered with soft wind chimes, evoking a breezy summer stroll in a field of lush green grass.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 4, "time_of_day": "night", "collection": "general", "instruments": ["guitar", "chime"], "bpm_estimate": 75, "themes": ["chill", "nature"]}'::json
+WHERE id = '14de4052-0684-4fcc-9f22-33728a9f0a99';
+
+-- Whispers of Summer (Track 1) -> lofi_chill_general_13
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_13',
+    asset_extra_metadata = '{"generated_at": "2025-06-29T11:20:56.592621", "task_id": "fc813d89-532d-4406-ab13-4d15cc908de9", "udio_song_id": "153afe45-44c2-4a67-a838-9a3e0b6e61e7", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/f68f379f-61cb-440b-de90-eca6a7fbb000/public", "tags": ["folk", "gentle guitar strums", "soft wind chimes", "breezy", "summer", "lush green grass", "instrumental"], "original_prompt": "Gentle guitar strums layered with soft wind chimes, evoking a breezy summer stroll in a field of lush green grass.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 4, "time_of_day": "night", "collection": "general", "instruments": ["guitar", "chime"], "bpm_estimate": 75, "themes": ["chill", "nature"]}'::json
+WHERE id = '39f929ae-fda1-4017-bc1a-5a9cd8007057';
+
+-- Whispers of Summer (Track 2) -> lofi_chill_general_14
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_14',
+    asset_extra_metadata = '{"generated_at": "2025-06-29T11:20:56.647682", "task_id": "fc813d89-532d-4406-ab13-4d15cc908de9", "udio_song_id": "965aa7ba-482c-4017-b2a0-15e839580870", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/4bac3246-76db-4cc2-2a1c-d80750b8bb00/public", "tags": ["acoustic", "gentle guitar strums", "soft wind chimes", "breezy", "summer", "lush green grass", "instrumental"], "original_prompt": "Gentle guitar strums layered with soft wind chimes, evoking a breezy summer stroll in a field of lush green grass.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 4, "time_of_day": "night", "collection": "general", "instruments": ["guitar", "chime"], "bpm_estimate": 75, "themes": ["chill", "nature"]}'::json
+WHERE id = '66a9fb2c-42a1-4b01-a7c2-75c9e611b1c2';
+
+-- Whispers of the Shore (Track 1) -> lofi_chill_general_15
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_15',
+    asset_extra_metadata = '{"generated_at": "2025-06-29T11:29:24.281131", "task_id": "fe6ebf41-d546-4345-8621-8b4910522181", "udio_song_id": "0639499e-0791-414f-b07c-c57bac0a6c7a", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/7d15f163-1c0a-4bd8-99c0-5c5d4088a800/public", "tags": ["jazz", "soft piano", "mellow saxophone", "gentle waves", "distant seagulls", "slow", "nostalgic", "instrumental"], "original_prompt": "Soft piano, mellow saxophone, gentle waves, and distant seagulls. Tempo: Slow. Mood: Nostalgic.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 3, "time_of_day": "night", "collection": "general", "instruments": ["piano"], "bpm_estimate": 70, "themes": ["chill", "ambient"]}'::json
+WHERE id = '7a1f5ffa-c189-442b-88b4-0b62943ca348';
+
+-- Whispers of the Shore (Track 2) -> lofi_chill_general_16
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_16',
+    asset_extra_metadata = '{"generated_at": "2025-06-29T11:29:24.339013", "task_id": "fe6ebf41-d546-4345-8621-8b4910522181", "udio_song_id": "f0db5ef6-3d37-4b62-b18c-22080cb7201e", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/59ed2924-c3b8-4b40-9472-4916731dd600/public", "tags": ["jazz", "soft piano", "mellow saxophone", "gentle waves", "distant seagulls", "slow", "nostalgic", "instrumental"], "original_prompt": "Soft piano, mellow saxophone, gentle waves, and distant seagulls. Tempo: Slow. Mood: Nostalgic.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 3, "time_of_day": "night", "collection": "general", "instruments": ["piano"], "bpm_estimate": 70, "themes": ["chill", "ambient"]}'::json
+WHERE id = '66966339-a59b-4077-b4c3-47b8732d06dd';
+
+-- Whispers of the Shore (Track 1) -> lofi_chill_general_17
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_17',
+    asset_extra_metadata = '{"generated_at": "2025-06-29T11:33:51.738663", "task_id": "fe6ebf41-d546-4345-8621-8b4910522181", "udio_song_id": "0639499e-0791-414f-b07c-c57bac0a6c7a", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/7d15f163-1c0a-4bd8-99c0-5c5d4088a800/public", "tags": ["jazz", "soft piano", "mellow saxophone", "gentle waves", "distant seagulls", "slow", "nostalgic", "instrumental"], "original_prompt": "Soft piano, mellow saxophone, gentle waves, and distant seagulls. Tempo: Slow. Mood: Nostalgic.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 3, "time_of_day": "night", "collection": "general", "instruments": ["piano"], "bpm_estimate": 70, "themes": ["chill", "ambient"]}'::json
+WHERE id = 'e69c64af-daef-48da-8adc-dee10ff1f43d';
+
+-- Whispers of the Shore (Track 2) -> lofi_chill_general_18
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_18',
+    asset_extra_metadata = '{"generated_at": "2025-06-29T11:33:51.796163", "task_id": "fe6ebf41-d546-4345-8621-8b4910522181", "udio_song_id": "f0db5ef6-3d37-4b62-b18c-22080cb7201e", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/59ed2924-c3b8-4b40-9472-4916731dd600/public", "tags": ["jazz", "soft piano", "mellow saxophone", "gentle waves", "distant seagulls", "slow", "nostalgic", "instrumental"], "original_prompt": "Soft piano, mellow saxophone, gentle waves, and distant seagulls. Tempo: Slow. Mood: Nostalgic.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 3, "time_of_day": "night", "collection": "general", "instruments": ["piano"], "bpm_estimate": 70, "themes": ["chill", "ambient"]}'::json
+WHERE id = 'c60a6fda-3195-47c3-8721-769951199466';
+
+-- Whispers of Nostalgia (Track 1) -> lofi_chill_general_19
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_19',
+    asset_extra_metadata = '{"generated_at": "2025-06-29T11:51:59.219443", "task_id": "6d69b504-ace6-4931-adf9-4a621daefde4", "udio_song_id": "c20d1a7f-8acb-4599-b629-15e8a903c8d6", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/40091edb-b2ef-4de5-bfd4-a548fcdf6700/public", "tags": ["rock", "folk rock", "country rock", "mellow", "love", "sentimental", "instrumental"], "original_prompt": "Acoustic guitar, harmonica, ambient sounds of a vintage book store. Tempo: Laid-back. Mood: Cozy.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 4, "time_of_day": "night", "collection": "general", "instruments": ["guitar"], "bpm_estimate": 75, "themes": ["chill"]}'::json
+WHERE id = 'c4f539ca-2346-4e0d-ac67-2eb041353ca4';
+
+-- Whispers Among Pages (Track 2) -> lofi_chill_general_20
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_20',
+    asset_extra_metadata = '{"generated_at": "2025-06-29T11:51:59.280478", "task_id": "6d69b504-ace6-4931-adf9-4a621daefde4", "udio_song_id": "d272df18-cae8-445e-b643-f94d93680628", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/c2ec8b8e-5acf-472c-3041-688ed160e500/public", "tags": ["contemporary folk", "folk", "mellow", "acoustic", "peaceful", "instrumental"], "original_prompt": "Acoustic guitar, harmonica, ambient sounds of a vintage book store. Tempo: Laid-back. Mood: Cozy.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 4, "time_of_day": "night", "collection": "general", "instruments": ["guitar"], "bpm_estimate": 75, "themes": ["chill"]}'::json
+WHERE id = '9d88fa75-43bf-442d-a67d-88f5b2137821';
+
+-- Echoing Time (Track 1) -> lofi_chill_urban_vibes_01
+UPDATE assets 
+SET 
+    name = 'lofi_chill_urban_vibes_01',
+    asset_extra_metadata = '{"generated_at": "2025-06-29T13:44:57.781451", "task_id": "0f716e0e-3457-419c-bb46-1a48fb11a4b6", "udio_song_id": "1c2ed2dc-bdc5-46f6-a3c6-be837db4c5c6", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/b877a2d6-21d4-4fdc-b990-275a5cadba00/public", "tags": ["relaxing", "atmospheric", "ambient", "soft", "calm", "peaceful", "minimalistic", "instrumental", "soothing"], "original_prompt": "Relaxing piano keys intertwine with soft vinyl crackles, echoing the rhythm of a ticking clock.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 6, "time_of_day": "afternoon", "collection": "urban_vibes", "instruments": ["piano", "vinyl"], "bpm_estimate": 85, "themes": ["chill", "urban", "ambient"]}'::json
+WHERE id = 'be531ee6-bbf5-483d-a698-db00f1aabf82';
+
+-- Time's Gentle Echo (Track 2) -> lofi_chill_urban_vibes_02
+UPDATE assets 
+SET 
+    name = 'lofi_chill_urban_vibes_02',
+    asset_extra_metadata = '{"generated_at": "2025-06-29T13:44:57.842230", "task_id": "0f716e0e-3457-419c-bb46-1a48fb11a4b6", "udio_song_id": "c674f71d-0762-4104-b6ac-e2e7c639fc13", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/b1128f01-5c02-4f9c-2bb6-624708e61d00/public", "tags": ["soft", "calm", "relaxing", "ambient", "peaceful", "minimalistic", "atmospheric", "instrumental", "soothing"], "original_prompt": "Relaxing piano keys intertwine with soft vinyl crackles, echoing the rhythm of a ticking clock.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 6, "time_of_day": "afternoon", "collection": "urban_vibes", "instruments": ["piano", "vinyl"], "bpm_estimate": 85, "themes": ["chill", "urban", "ambient"]}'::json
+WHERE id = '7a0427b2-2bfa-4a0f-aaa1-5711df201dbd';
+
+-- Midnight Melodies (Track 1) -> lofi_chill_general_21
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_21',
+    asset_extra_metadata = '{"generated_at": "2025-06-29T13:45:10.712697", "task_id": "40bc8f7f-ad34-461a-bc00-f9da741e70c1", "udio_song_id": "1ec542fc-6593-4e2e-9b88-11ecc1410727", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/7dbd5783-671f-4cd7-8b4e-351e1cbc0200/public", "tags": ["jazz", "cool jazz", "instrumental", "acoustic", "mellow", "warm", "soothing", "nocturnal", "improvisation", "romantic", "ballad", "sentimental", "love", "sensual", "melodic", "calm"], "original_prompt": "Subtle saxophone melodies dance over a gentle bassline, creating a cozy late-night ambiance.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 3, "time_of_day": "afternoon", "collection": "general", "instruments": [], "bpm_estimate": 70, "themes": ["chill"]}'::json
+WHERE id = '163a2c5f-8b4a-4896-b751-e7b092acd225';
+
+-- Midnight Melodies (Track 2) -> lofi_chill_general_22
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_22',
+    asset_extra_metadata = '{"generated_at": "2025-06-29T13:45:10.773862", "task_id": "40bc8f7f-ad34-461a-bc00-f9da741e70c1", "udio_song_id": "9b43f8c4-eef3-4650-a761-bf73c87cde63", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/dd64405f-1eea-4ea6-ca02-f7e5068c5700/public", "tags": ["jazz", "smooth jazz", "easy listening", "lounge", "calm", "instrumental"], "original_prompt": "Subtle saxophone melodies dance over a gentle bassline, creating a cozy late-night ambiance.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 3, "time_of_day": "afternoon", "collection": "general", "instruments": [], "bpm_estimate": 70, "themes": ["chill"]}'::json
+WHERE id = '64ea5f28-8b3f-4ea4-9d15-9d5e4edeb756';
+
+-- Soulful Reverie (Track 1) -> lofi_ambient_general_23
+UPDATE assets 
+SET 
+    name = 'lofi_ambient_general_23',
+    asset_extra_metadata = '{"generated_at": "2025-06-30T14:14:55.126312", "task_id": "09978e93-9a79-4fee-8f25-f0fb4bc60c78", "udio_song_id": "2b060710-b910-4342-82b2-bf8b66f8c979", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/6c9e7b62-04bc-4bb4-b647-913acc004300/public", "tags": ["jazz", "hard bop", "cool jazz", "warm", "mellow", "calm", "soulful", "instrumental"], "original_prompt": "Warm piano chords intertwine with vinyl crackles, brushed drums, and a soulful saxophone.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "ambient", "energy_level": 3, "time_of_day": "afternoon", "collection": "general", "instruments": ["piano", "drum", "vinyl"], "bpm_estimate": 70, "themes": ["ambient"]}'::json
+WHERE id = 'e462df6e-a8e9-4530-8468-71df8eadb0db';
+
+-- Soulful Whispers (Track 2) -> lofi_chill_general_24
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_24',
+    asset_extra_metadata = '{"generated_at": "2025-06-30T14:14:55.187804", "task_id": "09978e93-9a79-4fee-8f25-f0fb4bc60c78", "udio_song_id": "2c8f7971-bbd1-4806-99e9-a539a87a46c6", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/13c268c9-6c57-449b-4293-e749c5890a00/public", "tags": ["jazz", "spiritual jazz", "improvisation", "eclectic", "soulful", "instrumental"], "original_prompt": "Warm piano chords intertwine with vinyl crackles, brushed drums, and a soulful saxophone.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 3, "time_of_day": "night", "collection": "general", "instruments": ["piano", "drum", "vinyl"], "bpm_estimate": 70, "themes": ["chill"]}'::json
+WHERE id = 'eeec7b44-ce70-42fb-9c2d-8dbbaa42f85f';
+
+-- Whispers Among the Pages (Track 1) -> lofi_chill_water_elements_03
+UPDATE assets 
+SET 
+    name = 'lofi_chill_water_elements_03',
+    asset_extra_metadata = '{"generated_at": "2025-07-01T07:31:37.191154", "task_id": "24ddee5a-f051-44cf-bebd-84ca956d4248", "udio_song_id": "b04eb2a6-77f6-4afa-b044-36481f1da28b", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/14e938b3-5d34-4792-c37a-bc6db074b700/public", "tags": ["ambient", "chillwave", "downtempo", "indietronica", "chillout", "electronic", "atmospheric", "instrumental", "warm", "soothing", "calm"], "original_prompt": "Vinyl crackles blend with soft piano, gentle rain sounds, and distant chatter - a cozy vintage bookstore ambiance.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 3, "time_of_day": "night", "collection": "water_elements", "instruments": ["piano", "vinyl"], "bpm_estimate": 70, "themes": ["chill", "rain", "ambient"]}'::json
+WHERE id = 'd88da656-422d-4225-8e16-3cb3797b5519';
+
+-- Whispers in the Stacks (Track 2) -> lofi_chill_water_elements_04
+UPDATE assets 
+SET 
+    name = 'lofi_chill_water_elements_04',
+    asset_extra_metadata = '{"generated_at": "2025-07-01T07:31:37.255092", "task_id": "24ddee5a-f051-44cf-bebd-84ca956d4248", "udio_song_id": "d3ca3b74-b1d8-4b5c-8a09-b622632adcf3", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/a71ff495-dd7e-49f0-4539-a6538557dd00/public", "tags": ["ambient", "chillwave", "downtempo", "indietronica", "chillout", "electronic", "atmospheric", "instrumental", "warm", "soothing", "calm"], "original_prompt": "Vinyl crackles blend with soft piano, gentle rain sounds, and distant chatter - a cozy vintage bookstore ambiance.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 3, "time_of_day": "night", "collection": "water_elements", "instruments": ["piano", "vinyl"], "bpm_estimate": 70, "themes": ["chill", "rain", "ambient"]}'::json
+WHERE id = '3fb097ae-0125-4460-a86f-6b350f3aee1b';
+
+-- Whispers of the Past (Track 1) -> lofi_chill_general_25
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_25',
+    asset_extra_metadata = '{"generated_at": "2025-07-01T07:32:04.302869", "task_id": "05560873-8325-469e-9a35-492e466e3952", "udio_song_id": "973f694e-e5d9-4651-a500-4cda5e45c889", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/161c2bd7-d1cf-4e45-a041-ed1862d5fd00/public", "tags": ["male vocalist", "rock", "alternative rock", "bittersweet", "dream pop", "mellow", "atmospheric", "warm", "melancholic", "longing", "autumn", "soft", "peaceful", "introspective", "instrumental"], "original_prompt": "Melancholic guitar melodies intertwined with the soft hum of a record player evoke a sense of nostalgia in a quaint bookshop.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 4, "time_of_day": "night", "collection": "general", "instruments": ["guitar"], "bpm_estimate": 75, "themes": ["chill"]}'::json
+WHERE id = '89d92429-4fd8-40f7-a703-d9fe102e31e6';
+
+-- Whispers of the Past (Track 2) -> lofi_chill_general_26
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_26',
+    asset_extra_metadata = '{"generated_at": "2025-07-01T07:32:04.368843", "task_id": "05560873-8325-469e-9a35-492e466e3952", "udio_song_id": "c340f91e-27b1-4a5d-8a7e-cd7fa30136ad", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/ef4c8ba4-20b8-4282-13e6-5813e84fe300/public", "tags": ["male vocalist", "melodic", "pop", "bittersweet", "indie pop", "lush", "mellow", "love", "indie", "melancholic", "summer", "acoustic", "jangle pop", "instrumental"], "original_prompt": "Melancholic guitar melodies intertwined with the soft hum of a record player evoke a sense of nostalgia in a quaint bookshop.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 4, "time_of_day": "night", "collection": "general", "instruments": ["guitar"], "bpm_estimate": 75, "themes": ["chill"]}'::json
+WHERE id = '77d10ef0-f650-4ed1-a8f2-96de24ddd870';
+
+-- Gentle Sway (Track 1) -> lofi_chill_general_27
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_27',
+    asset_extra_metadata = '{"generated_at": "2025-07-01T13:33:25.797252", "task_id": "fc1d0628-c206-4572-b8dd-4a012eee1773", "udio_song_id": "76af2553-d4ab-4eae-a14b-481f905bbf49", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/aa2192fd-d0f9-46e0-cc27-648b45a94100/public", "tags": ["chillwave", "downtempo", "indietronica", "chillout", "electronic", "atmospheric", "instrumental", "warm", "soothing", "calm"], "original_prompt": "Feel the gentle sway of a nylon guitar, soft waves lapping against a Rhodes piano, and distant seagull calls.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 4, "time_of_day": "afternoon", "collection": "general", "instruments": ["piano", "guitar"], "bpm_estimate": 75, "themes": ["chill", "ambient"]}'::json
+WHERE id = '8c366b1c-20d3-4c97-a183-ad525f34aaa2';
+
+-- Gentle Sway (Track 2) -> lofi_chill_general_28
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_28',
+    asset_extra_metadata = '{"generated_at": "2025-07-01T13:33:25.872242", "task_id": "fc1d0628-c206-4572-b8dd-4a012eee1773", "udio_song_id": "99a76656-e21e-4dcb-a8c1-6755a988308f", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/eedef3f2-0358-4729-718f-2476ac36c100/public", "tags": ["instrumental", "atmospheric", "soft", "calm", "peaceful", "minimalistic", "soothing"], "original_prompt": "Feel the gentle sway of a nylon guitar, soft waves lapping against a Rhodes piano, and distant seagull calls.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 4, "time_of_day": "afternoon", "collection": "general", "instruments": ["piano", "guitar"], "bpm_estimate": 75, "themes": ["chill", "ambient"]}'::json
+WHERE id = '4a380d69-f13b-4bac-994a-88ebb4acd79b';
+
+-- Raindrop Reverie (Track 1) -> lofi_chill_water_elements_05
+UPDATE assets 
+SET 
+    name = 'lofi_chill_water_elements_05',
+    asset_extra_metadata = '{"generated_at": "2025-07-01T15:46:17.720360", "task_id": "071733ed-c11f-4ae5-ae6d-fb45471e3aad", "udio_song_id": "7514cc12-78d3-4a9b-9f02-af2f583773dc", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/7451f0a5-2bf7-42eb-1892-f5eacc91da00/public", "tags": ["melodic", "ambient", "tranquil", "downtempo", "folktronica", "electronic", "chillout", "rhythmic", "atmospheric", "soothing", "uplifting", "instrumental", "calm"], "original_prompt": "Gentle Rhodes keys blend with raindrops percussion, crafting a tranquil night melody.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 3, "time_of_day": "afternoon", "collection": "water_elements", "instruments": [], "bpm_estimate": 70, "themes": ["chill", "rain", "ambient"]}'::json
+WHERE id = 'd309d38b-2ae2-4afc-b40e-bd0210b8ef17';
+
+-- Raindrop Reverie (Track 2) -> lofi_chill_water_elements_06
+UPDATE assets 
+SET 
+    name = 'lofi_chill_water_elements_06',
+    asset_extra_metadata = '{"generated_at": "2025-07-01T15:46:17.811657", "task_id": "071733ed-c11f-4ae5-ae6d-fb45471e3aad", "udio_song_id": "8ded5dd7-3c50-455c-821c-8bf67157dd33", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/c47cd0ac-ce15-4c7d-80d3-e719eed89200/public", "tags": ["tranquil", "calm", "peaceful", "minimalistic", "atmospheric", "instrumental", "soft", "soothing"], "original_prompt": "Gentle Rhodes keys blend with raindrops percussion, crafting a tranquil night melody.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 3, "time_of_day": "afternoon", "collection": "water_elements", "instruments": [], "bpm_estimate": 70, "themes": ["chill", "rain", "ambient"]}'::json
+WHERE id = '441cb102-85a5-45cd-ba9a-3b8c9f441dce';
+
+-- Under the Streetlamp Glow (Track 1) -> lofi_urban_general_29
+UPDATE assets 
+SET 
+    name = 'lofi_urban_general_29',
+    asset_extra_metadata = '{"generated_at": "2025-07-02T05:54:49.313596", "task_id": "5b9bb552-f8a4-4d96-8577-7a317f0ccc43", "udio_song_id": "2be9a296-04d1-4fb9-8121-78a84ee653f8", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/e96b57ee-ac38-4f50-4ef5-ee161371b300/public", "tags": ["electronic", "downtempo", "chillout", "indietronica", "mellow", "atmospheric", "lush", "soft", "soothing", "ambient", "melancholic", "instrumental"], "original_prompt": "Crisp cobblestone footsteps paired with warm nylon strings create a lo-fi ambiance under the faint glow of a streetlamp.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "urban", "energy_level": 3, "time_of_day": "afternoon", "collection": "general", "instruments": [], "bpm_estimate": 70, "themes": ["urban"]}'::json
+WHERE id = '55c1031e-1196-48ae-ad15-1749a2c0ea1a';
+
+-- Cobbled Whispers (Track 2) -> lofi_chill_general_30
+UPDATE assets 
+SET 
+    name = 'lofi_chill_general_30',
+    asset_extra_metadata = '{"generated_at": "2025-07-02T05:54:49.388358", "task_id": "5b9bb552-f8a4-4d96-8577-7a317f0ccc43", "udio_song_id": "910b387e-375e-43cf-b3f0-20c3903c7951", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/b861473f-08f1-4b8d-ebbf-3bbca401eb00/public", "tags": ["lo-fi", "ambient", "downtempo", "chillout", "electronic", "nu jazz", "trip hop", "instrumental hip hop", "rhythmic", "warm", "instrumental", "mellow", "eclectic", "atmospheric", "sampling", "calm", "lush", "melodic", "soothing", "hypnotic", "uplifting", "ethereal"], "original_prompt": "Crisp cobblestone footsteps paired with warm nylon strings create a lo-fi ambiance under the faint glow of a streetlamp.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 3, "time_of_day": "night", "collection": "general", "instruments": [], "bpm_estimate": 70, "themes": ["chill", "urban"]}'::json
+WHERE id = '10842fc6-6efc-4fbd-bff2-22de9282e39a';
+
+-- Flicker of Solitude (Track 1) -> lofi_chill_ambient_moments_01
+UPDATE assets 
+SET 
+    name = 'lofi_chill_ambient_moments_01',
+    asset_extra_metadata = '{"generated_at": "2025-07-02T05:55:09.536294", "task_id": "52688e79-2db9-4a56-94f7-e9c55556025b", "udio_song_id": "3eb77c8b-b288-4363-b9dd-a1b22568da92", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/2f9c791a-aa7d-4dcb-bab3-0bad2ebdc400/public", "tags": ["male vocalist", "folk", "indie folk", "singer-songwriter", "contemporary folk", "melodic", "melancholic", "atmospheric", "acoustic", "sentimental", "introspective", "mellow", "instrumental"], "original_prompt": "Gentle nylon guitar serenades over mellow drum beats, echoing the flicker of a solitary streetlamp.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 5, "time_of_day": "night", "collection": "ambient_moments", "instruments": ["guitar", "drum"], "bpm_estimate": 80, "themes": ["chill", "urban", "ambient"]}'::json
+WHERE id = '9266b323-2e71-4a7e-bcb4-531b68aeb553';
+
+-- Flicker of Light (Track 2) -> lofi_chill_ambient_moments_02
+UPDATE assets 
+SET 
+    name = 'lofi_chill_ambient_moments_02',
+    asset_extra_metadata = '{"generated_at": "2025-07-02T05:55:09.606709", "task_id": "52688e79-2db9-4a56-94f7-e9c55556025b", "udio_song_id": "c81d513b-dd4c-4d73-bd73-f0d8a1ad79a7", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/dd10062d-30e0-4501-db46-46c09a3aee00/public", "tags": ["male vocalist", "folk", "indie folk", "singer-songwriter", "contemporary folk", "melodic", "melancholic", "atmospheric", "acoustic", "sentimental", "introspective", "mellow", "instrumental"], "original_prompt": "Gentle nylon guitar serenades over mellow drum beats, echoing the flicker of a solitary streetlamp.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 5, "time_of_day": "afternoon", "collection": "ambient_moments", "instruments": ["guitar", "drum"], "bpm_estimate": 80, "themes": ["chill", "urban", "ambient"]}'::json
+WHERE id = '2a23281a-d190-4b84-b645-57be6f4df517';
+
+-- River Reflections (Track 1) -> lofi_chill_water_elements_07
+UPDATE assets 
+SET 
+    name = 'lofi_chill_water_elements_07',
+    asset_extra_metadata = '{"generated_at": "2025-07-02T06:33:54.093328", "task_id": "b92f528b-5641-4fe6-99b8-9377d5758aae", "udio_song_id": "84bfefc1-8934-4715-877a-dc49835edc90", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/905b6658-3fe7-45b6-5429-16a6778c4d00/public", "tags": ["downtempo", "electronic", "chillout", "nu jazz", "trip hop", "instrumental hip hop", "rhythmic", "warm", "instrumental", "mellow", "eclectic", "atmospheric", "sampling", "calm", "lush", "melodic", "soothing", "lo-fi", "hypnotic", "uplifting", "ethereal"], "original_prompt": "Lofi track featuring soft trumpet melodies, mellow piano chords, river sounds, and a laid-back swing groove.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 4, "time_of_day": "night", "collection": "water_elements", "instruments": ["piano", "trumpet"], "bpm_estimate": 75, "themes": ["chill", "rain", "ambient"]}'::json
+WHERE id = 'f3e6ffce-f14d-4d33-a0ae-7029f7174d08';
+
+-- River Reverie (Track 2) -> lofi_chill_water_elements_08
+UPDATE assets 
+SET 
+    name = 'lofi_chill_water_elements_08',
+    asset_extra_metadata = '{"generated_at": "2025-07-02T06:33:54.158099", "task_id": "b92f528b-5641-4fe6-99b8-9377d5758aae", "udio_song_id": "d3cd9676-1f17-48a6-bff5-212eabdcd13b", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/801b862e-a2ee-497b-8e65-4bfdb2902200/public", "tags": ["downtempo", "chillout", "electronic", "nu jazz", "trip hop", "instrumental hip hop", "rhythmic", "warm", "instrumental", "mellow", "eclectic", "atmospheric", "sampling", "calm", "lush", "melodic", "soothing", "lo-fi", "hypnotic", "uplifting", "ethereal"], "original_prompt": "Lofi track featuring soft trumpet melodies, mellow piano chords, river sounds, and a laid-back swing groove.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 4, "time_of_day": "afternoon", "collection": "water_elements", "instruments": ["piano", "trumpet"], "bpm_estimate": 75, "themes": ["chill", "rain", "ambient"]}'::json
+WHERE id = 'fe3cf4c6-451b-47a5-97ac-e2ccebbd40d9';
+
+-- Tram Ride by the River (Track 1) -> lofi_urban_water_elements_09
+UPDATE assets 
+SET 
+    name = 'lofi_urban_water_elements_09',
+    asset_extra_metadata = '{"generated_at": "2025-07-02T06:34:09.757440", "task_id": "5c7bdb21-6d26-492b-b607-ac71b975f382", "udio_song_id": "0b87e40c-7586-47d6-b0ec-44abb2ade60b", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/ac0f82f8-0646-49c7-5b58-22e8485f5100/public", "tags": ["chill", "rhythmic", "downtempo", "folktronica", "electronic", "chillout", "atmospheric", "soothing", "uplifting", "instrumental", "melodic", "calm"], "original_prompt": "Chill lofi with distant horns, crackling vinyl, gentle guitar strums, and a rhythmic beat evoking a riverside tram ride.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "urban", "energy_level": 6, "time_of_day": "afternoon", "collection": "water_elements", "instruments": ["guitar", "horn", "vinyl"], "bpm_estimate": 85, "themes": ["chill", "rain", "urban", "ambient"]}'::json
+WHERE id = 'c51a7868-7b31-41d3-bd4e-8c753ba74799';
+
+-- Riverside Rhythm (Track 2) -> lofi_urban_water_elements_10
+UPDATE assets 
+SET 
+    name = 'lofi_urban_water_elements_10',
+    asset_extra_metadata = '{"generated_at": "2025-07-02T06:34:09.823841", "task_id": "5c7bdb21-6d26-492b-b607-ac71b975f382", "udio_song_id": "8c80a4a1-d7c9-42b4-9ab5-b38ceed24092", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/229258cf-e24a-46d3-746d-3900bdd38300/public", "tags": ["chill", "rhythmic", "downtempo", "idm", "electronic", "chillout", "chillwave", "folktronica", "instrumental", "warm", "peaceful", "repetitive", "atmospheric", "lush", "soft", "calm", "mellow", "sampling", "ethereal", "uplifting", "melodic"], "original_prompt": "Chill lofi with distant horns, crackling vinyl, gentle guitar strums, and a rhythmic beat evoking a riverside tram ride.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "urban", "energy_level": 6, "time_of_day": "afternoon", "collection": "water_elements", "instruments": ["guitar", "horn", "vinyl"], "bpm_estimate": 85, "themes": ["chill", "rain", "urban", "ambient"]}'::json
+WHERE id = 'a59ab2bc-7501-43d3-be8b-09237e1173c4';
+
+-- Whispers in the Rain (Track 1) -> lofi_chill_water_elements_11
+UPDATE assets 
+SET 
+    name = 'lofi_chill_water_elements_11',
+    asset_extra_metadata = '{"generated_at": "2025-07-03T13:37:38.195129", "task_id": "fe35bb12-3c7a-49e4-b125-9e4340a80f1b", "udio_song_id": "23164cd7-9e73-41f7-af2a-3b0c20c1cbc5", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/9ca726c9-27c5-4d79-0c74-87f4dfd91200/public", "tags": ["acoustic guitar", "folktronica", "downtempo", "electronic", "chillout", "idm", "organic house", "peaceful", "rhythmic", "mellow", "sampling", "warm", "autumn", "atmospheric", "instrumental", "pastoral", "repetitive", "soft", "sentimental"], "original_prompt": "A lofi track featuring gentle rain sounds, acoustic guitar, and distant thunder, evoking a cozy cabin in the mountains.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 4, "time_of_day": "night", "collection": "water_elements", "instruments": ["guitar"], "bpm_estimate": 75, "themes": ["chill", "rain", "ambient"]}'::json
+WHERE id = '7e0cfa03-b82c-4d10-8b15-09f2f0e0bd2c';
+
+-- Whispers of the Rain (Track 2) -> lofi_chill_water_elements_12
+UPDATE assets 
+SET 
+    name = 'lofi_chill_water_elements_12',
+    asset_extra_metadata = '{"generated_at": "2025-07-03T13:37:38.257985", "task_id": "fe35bb12-3c7a-49e4-b125-9e4340a80f1b", "udio_song_id": "455189a1-adcf-4300-a55c-47a0a23cc5bf", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/6558535c-6ada-4130-80ec-7f29f70b3100/public", "tags": ["acoustic guitar", "downtempo", "folktronica", "electronic", "chillout", "rhythmic", "atmospheric", "soothing", "uplifting", "instrumental", "melodic", "calm"], "original_prompt": "A lofi track featuring gentle rain sounds, acoustic guitar, and distant thunder, evoking a cozy cabin in the mountains.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 4, "time_of_day": "night", "collection": "water_elements", "instruments": ["guitar"], "bpm_estimate": 75, "themes": ["chill", "rain", "ambient"]}'::json
+WHERE id = '247ac774-8a2f-496a-bee2-0e7ae140e4d4';
+
+-- Whispers of Rain (Track 1) -> lofi_chill_water_elements_13
+UPDATE assets 
+SET 
+    name = 'lofi_chill_water_elements_13',
+    asset_extra_metadata = '{"generated_at": "2025-07-03T13:38:48.222647", "task_id": "5977dc99-0f4e-40aa-b064-367241c53808", "udio_song_id": "93492b6b-f1a0-4752-92e8-b6b5c495a252", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/b51ab111-3686-4b8c-93fb-f2e592d2f200/public", "tags": ["ambient", "melodic", "soft", "downtempo", "electronic", "chillout", "new age", "trip hop", "calm", "instrumental", "atmospheric", "soothing", "peaceful", "ethereal", "rhythmic", "mellow"], "original_prompt": "Soft piano melodies with subtle wind chimes, creating a calming ambiance of a rainy day in a mountain hut.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 3, "time_of_day": "night", "collection": "water_elements", "instruments": ["piano", "chime"], "bpm_estimate": 70, "themes": ["chill", "rain", "nature"]}'::json
+WHERE id = '8f419f14-c7e3-44f3-bbbc-6d116e438944';
+
+-- Whispers of Rain (Track 2) -> lofi_chill_water_elements_14
+UPDATE assets 
+SET 
+    name = 'lofi_chill_water_elements_14',
+    asset_extra_metadata = '{"generated_at": "2025-07-03T13:38:48.284829", "task_id": "5977dc99-0f4e-40aa-b064-367241c53808", "udio_song_id": "cb32c7ac-391d-40e6-acea-8c356a296b20", "image_url": "https://imagedelivery.net/C9yUr1FL21Q6JwfYYh2ozQ/35af2c65-1106-4745-596b-ef85185bf400/public", "tags": ["melodic", "soft", "calm", "ambient", "new age", "tibetan new age", "meditative", "soothing", "instrumental"], "original_prompt": "Soft piano melodies with subtle wind chimes, creating a calming ambiance of a rainy day in a mountain hut.", "duration_seconds": 131.114666666667, "lyrics": "", "provider": "udio", "generation_type": "music", "auto_saved": true, "genre": "lofi", "mood": "chill", "energy_level": 3, "time_of_day": "night", "collection": "water_elements", "instruments": ["piano", "chime"], "bpm_estimate": 70, "themes": ["chill", "rain", "nature"]}'::json
+WHERE id = '4db5ef83-e15d-473f-9c54-022b3c5ab5c0';
+
+-- Verifica risultati
+SELECT collection, COUNT(*) as count, SUM(duration) as total_duration
+FROM (
+    SELECT 
+        asset_extra_metadata->>'collection' as collection,
+        duration
+    FROM assets 
+    WHERE type = 'audio'
+) subq
+GROUP BY collection
+ORDER BY count DESC;
+
+-- Se tutto OK, commit. Altrimenti ROLLBACK;
+-- COMMIT;
+-- ROLLBACK;
+
+END;

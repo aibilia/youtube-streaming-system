@@ -1,0 +1,173 @@
+{
+  "population_date": "2025-07-17T13:56:28.791617",
+  "status": "completed",
+  "content_summary": {
+    "total_audio_files": 56,
+    "total_video_files": 1,
+    "channels_found": [],
+    "programs_found": []
+  },
+  "files_processed": {
+    "total_found": 57,
+    "total_copied": 57,
+    "copy_rate": "100.0%"
+  },
+  "detailed_inventory": {
+    "audio": {
+      "Aqua_Lofi_Chill": {
+        "Abyss Deep": {
+          "path": "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep",
+          "files": [
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_01.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_02.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_03.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_04.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_05.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_06.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_07.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_08.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_09.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_10.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_11.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_12.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_13.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_14.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_15.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_16.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_17.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_18.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_19.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_20.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_21.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Abyss Deep/20250707/abyss_deep_22.mp3"
+          ],
+          "count": 22
+        },
+        "Meditative Tide": {
+          "path": "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide",
+          "files": [
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Brine fog.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Brine fog_(1).mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Crystal bell drift_ChatGPT prompt (Remix).mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Crystal bell drift_ChatGPT prompt.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Echo tide (1).mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Echo tide.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Lagoon haze (1).mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Lagoon haze.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Lagoon temple_ChatGPT prompt (Remastered) (1).mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Lagoon temple_ChatGPT prompt (Remastered).mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Lagoon temple_ChatGPT prompt.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Meditation pool.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Moonfloor shimmer (1).mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Moonfloor shimmer.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Moonwater hum_ChatGPT prompt (Remix).mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Moonwater hum_ChatGPT prompt.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Pearl drift (1).mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Pearl drift.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Salt bloom (1).mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Salt bloom.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Salt chant_ChatGPT prompt (1).mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Salt chant_ChatGPT prompt.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Slow surface (Remix) (Remastered).mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Slow surface (Remix).mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Still chant_ChatGPT prompt (1).mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Still chant_ChatGPT prompt.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Stillwater breath (Remastered) (1).mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Stillwater breath (Remastered).mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Stillwater breath.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Tidal breath instrumental (1).mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Tidal breath instrumental.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Tidal mantra_ChatGPT prompt.mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Tidal mantra_Suno prompt (Remastered).mp3",
+            "/Users/andreafeo/Desktop/Songs/Aqua_Lofi_Chill/Meditative Tide/20250717/meditative_tide_Tidal mantra_Suno prompt.mp3"
+          ],
+          "count": 34
+        }
+      }
+    },
+    "video": {
+      "Aqua_Lofi_Chill": {
+        "Meditative_Tide": {
+          "path": "/Users/andreafeo/Desktop/Videos/Aqua_Lofi_Chill/Meditative_Tide",
+          "files": [
+            "/Users/andreafeo/Desktop/Videos/Aqua_Lofi_Chill/Meditative_Tide/meditative_tide_kid_underwater.mp4"
+          ],
+          "count": 1
+        }
+      }
+    },
+    "summary": {
+      "total_audio_files": 56,
+      "total_video_files": 1,
+      "channels_found": [],
+      "programs_found": []
+    }
+  },
+  "processed_files": [
+    "Audio: abyss_deep_01.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_01.mp3",
+    "Audio: abyss_deep_02.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_02.mp3",
+    "Audio: abyss_deep_03.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_03.mp3",
+    "Audio: abyss_deep_04.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_04.mp3",
+    "Audio: abyss_deep_05.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_05.mp3",
+    "Audio: abyss_deep_06.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_06.mp3",
+    "Audio: abyss_deep_07.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_07.mp3",
+    "Audio: abyss_deep_08.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_08.mp3",
+    "Audio: abyss_deep_09.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_09.mp3",
+    "Audio: abyss_deep_10.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_10.mp3",
+    "Audio: abyss_deep_11.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_11.mp3",
+    "Audio: abyss_deep_12.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_12.mp3",
+    "Audio: abyss_deep_13.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_13.mp3",
+    "Audio: abyss_deep_14.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_14.mp3",
+    "Audio: abyss_deep_15.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_15.mp3",
+    "Audio: abyss_deep_16.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_16.mp3",
+    "Audio: abyss_deep_17.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_17.mp3",
+    "Audio: abyss_deep_18.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_18.mp3",
+    "Audio: abyss_deep_19.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_19.mp3",
+    "Audio: abyss_deep_20.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_20.mp3",
+    "Audio: abyss_deep_21.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_21.mp3",
+    "Audio: abyss_deep_22.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_abyss/abyss_track_22.mp3",
+    "Audio: meditative_tide_Brine fog.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_01.mp3",
+    "Audio: meditative_tide_Brine fog_(1).mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_02.mp3",
+    "Audio: meditative_tide_Crystal bell drift_ChatGPT prompt (Remix).mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_03.mp3",
+    "Audio: meditative_tide_Crystal bell drift_ChatGPT prompt.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_04.mp3",
+    "Audio: meditative_tide_Echo tide (1).mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_05.mp3",
+    "Audio: meditative_tide_Echo tide.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_06.mp3",
+    "Audio: meditative_tide_Lagoon haze (1).mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_07.mp3",
+    "Audio: meditative_tide_Lagoon haze.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_08.mp3",
+    "Audio: meditative_tide_Lagoon temple_ChatGPT prompt (Remastered) (1).mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_09.mp3",
+    "Audio: meditative_tide_Lagoon temple_ChatGPT prompt (Remastered).mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_10.mp3",
+    "Audio: meditative_tide_Lagoon temple_ChatGPT prompt.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_11.mp3",
+    "Audio: meditative_tide_Meditation pool.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_12.mp3",
+    "Audio: meditative_tide_Moonfloor shimmer (1).mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_13.mp3",
+    "Audio: meditative_tide_Moonfloor shimmer.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_14.mp3",
+    "Audio: meditative_tide_Moonwater hum_ChatGPT prompt (Remix).mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_15.mp3",
+    "Audio: meditative_tide_Moonwater hum_ChatGPT prompt.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_16.mp3",
+    "Audio: meditative_tide_Pearl drift (1).mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_17.mp3",
+    "Audio: meditative_tide_Pearl drift.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_18.mp3",
+    "Audio: meditative_tide_Salt bloom (1).mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_19.mp3",
+    "Audio: meditative_tide_Salt bloom.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_20.mp3",
+    "Audio: meditative_tide_Salt chant_ChatGPT prompt (1).mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_21.mp3",
+    "Audio: meditative_tide_Salt chant_ChatGPT prompt.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_22.mp3",
+    "Audio: meditative_tide_Slow surface (Remix) (Remastered).mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_23.mp3",
+    "Audio: meditative_tide_Slow surface (Remix).mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_24.mp3",
+    "Audio: meditative_tide_Still chant_ChatGPT prompt (1).mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_25.mp3",
+    "Audio: meditative_tide_Still chant_ChatGPT prompt.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_26.mp3",
+    "Audio: meditative_tide_Stillwater breath (Remastered) (1).mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_27.mp3",
+    "Audio: meditative_tide_Stillwater breath (Remastered).mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_28.mp3",
+    "Audio: meditative_tide_Stillwater breath.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_29.mp3",
+    "Audio: meditative_tide_Tidal breath instrumental (1).mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_30.mp3",
+    "Audio: meditative_tide_Tidal breath instrumental.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_31.mp3",
+    "Audio: meditative_tide_Tidal mantra_ChatGPT prompt.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_32.mp3",
+    "Audio: meditative_tide_Tidal mantra_Suno prompt (Remastered).mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_33.mp3",
+    "Audio: meditative_tide_Tidal mantra_Suno prompt.mp3 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/meditative-tide_track_34.mp3",
+    "Video: meditative_tide_kid_underwater.mp4 \u2192 media_streaming/aqua_lofi/playlists/20250717_meditative_tide/video/background.mp4"
+  ],
+  "errors": [],
+  "next_steps": [
+    "Create additional playlist versions",
+    "Setup streaming rotation engine",
+    "Implement seamless loop processing for videos",
+    "Configure FFmpeg streaming pipeline",
+    "Setup database playlist management"
+  ]
+}
